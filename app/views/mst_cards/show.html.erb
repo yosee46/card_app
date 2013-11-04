@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Card name:</strong>
+  <%= @mst_card.card_name %>
+</p>
+
+<p>
+  <strong>Mana:</strong>
+  <%= @mst_card.mana %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @mst_card.card_type %>
+</p>
+
+<p>
+  <strong>Poto:</strong>
+  <%= @mst_card.poto %>
+</p>
+
+<p>
+  <strong>Text:</strong>
+  <%= @mst_card.text %>
+</p>
+
+<%= link_to 'Edit', edit_mst_card_path(@mst_card) %> |
+<%= link_to 'Back', mst_cards_path %>

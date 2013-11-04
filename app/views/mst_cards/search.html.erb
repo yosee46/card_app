@@ -1,0 +1,14 @@
+<h1>New mst_card</h1>
+
+
+<%= form_tag({:controller => 'mst_cards', :action => 'search_do'}, {:method => "GET"}) do %>
+    <%= text_field_tag('card_name', '', {:size => 30}) %>
+    <%= submit_tag('カード名で検索') %>
+<% end %>
+
+<%= form_tag({:controller => 'mst_cards', :action => 'search_do'}) do %>
+    <%= text_field_tag('text', '', {:size => 30}) %>
+    <%= submit_tag('カードの効果で検索') %>
+<% end %>
+
+<%= link_to 'Back', mst_cards_path %>

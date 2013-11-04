@@ -1,0 +1,31 @@
+<h1>Listing mst_cards</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Card name</th>
+      <th>Mana</th>
+      <th>Type</th>
+      <th>Poto</th>
+      <th>Text</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @mst_cards.each do |mst_card| %>
+      <tr>
+        <td><%= mst_card.card_name %></td>
+        <td><%= mst_card.mana %></td>
+        <td><%= mst_card.poto %></td>
+        <td><%= hbr mst_card.text %></td>
+        <td><%= link_to 'Show', mst_card %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+

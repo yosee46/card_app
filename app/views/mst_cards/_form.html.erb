@@ -1,0 +1,37 @@
+<%= form_for(@mst_card) do |f| %>
+  <% if @mst_card.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@mst_card.errors.count, "error") %> prohibited this mst_card from being saved:</h2>
+
+      <ul>
+      <% @mst_card.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :card_name %><br>
+    <%= f.text_field :card_name %>
+  </div>
+  <div class="field">
+    <%= f.label :mana %><br>
+    <%= f.text_field :mana %>
+  </div>
+  <div class="field">
+    <%= f.label :card_type %><br>
+    <%= f.text_field :card_type %>
+  </div>
+  <div class="field">
+    <%= f.label :poto %><br>
+    <%= f.text_field :poto %>
+  </div>
+  <div class="field">
+    <%= f.label :text %><br>
+    <%= f.text_field :text %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

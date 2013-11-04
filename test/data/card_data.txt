@@ -1,0 +1,2342 @@
+<br><hr style="clear: both">
+<div id="戦識の武勇"><a name="Battlewise+Valor"></a>
+<img src="/cardlist/thumbs/THS_t/Battlewise+Valor.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《戦識の武勇》(せんしきのぶゆう)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体を対象とする。それはターン終了時まで＋2/＋2の修整を受ける。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="乗騎ペガサス"><a name="Cavalry+Pegasus"></a>
+<img src="/cardlist/thumbs/THS_t/Cavalry+Pegasus.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《乗騎ペガサス》(じょうきペガサス)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">クリーチャー ― ペガサス</div>
+<div class="poto">1/1</div>
+<div class="text">飛行<br>乗騎ペガサスが攻撃するたび、攻撃している人間はそれぞれターン終了時まで飛行を得る。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="天界の執政官"><a name="Celestial+Archon"></a>
+<img src="/cardlist/thumbs/THS_t/Celestial+Archon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《天界の執政官》(てんかいのしっせいかん)</h4>
+<div class="mana">{3}{W}{W}</div>
+<div class="type">エンチャント・クリーチャー ― 執政官</div>
+<div class="poto">4/4</div>
+<div class="text"><small>授与{5}{W}{W}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>飛行、先制攻撃<br>エンチャントされているクリーチャーは、＋4/＋4の修整を受けるとともに飛行と先制攻撃を持つ。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="岩への繋ぎ止め"><a name="Chained+to+the+Rocks"></a>
+<img src="/cardlist/thumbs/THS_t/Chained+to+the+Rocks.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《岩への繋ぎ止め》(いわへのつなぎとめ)</h4>
+<div class="mana">{W}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（あなたのコントロールする山）<br>岩への繋ぎ止めが戦場に出たとき、対戦相手がコントロールするクリーチャー1体を対象とし、岩への繋ぎ止めが戦場を離れるまでそれを追放する。（そのクリーチャーはオーナーのコントロール下で戦場に戻る。）</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="ヘリオッドの選抜"><a name="Chosen+by+Heliod"></a>
+<img src="/cardlist/thumbs/THS_t/Chosen+by+Heliod.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ヘリオッドの選抜》(ヘリオッドのせんばつ)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">エンチャント（クリーチャー）<br>ヘリオッドの選抜が戦場に出たとき、カードを1枚引く。<br>エンチャントされているクリーチャーは＋0/＋2の修整を受ける。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="不屈の猛攻"><a name="Dauntless+Onslaught"></a>
+<img src="/cardlist/thumbs/THS_t/Dauntless+Onslaught.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《不屈の猛攻》(ふくつのもうこう)</h4>
+<div class="mana">{2}{W}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャーを最大2体まで対象とする。それらはターン終了時までそれぞれ＋2/＋2の修整を受ける。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="受勲したグリフィン"><a name="Decorated+Griffin"></a>
+<img src="/cardlist/thumbs/THS_t/Decorated+Griffin.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《受勲したグリフィン》(じゅくんしたグリフィン)</h4>
+<div class="mana">{4}{W}</div>
+<div class="type">クリーチャー ― グリフィン</div>
+<div class="poto">2/3</div>
+<div class="text">飛行<br>{1}{W}：このターン、次にあなたに与えられる戦闘ダメージを1点軽減する。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="神聖なる評決"><a name="Divine+Verdict"></a>
+<img src="/cardlist/thumbs/THS_t/Divine+Verdict.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《神聖なる評決》(しんせいなるひょうけつ)</h4>
+<div class="mana">{3}{W}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">攻撃かブロックしているクリーチャー1体を対象とし、それを破壊する。</div>
+<div class="sets">[M10]:C [M13]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="太陽の勇者、エルズペス"><a name="Elspeth_Sun_s+Champion"></a>
+<img src="/cardlist/thumbs/THS_t/Elspeth_Sun_s+Champion.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《太陽の勇者、エルズペス》(たいようのゆうしゃ、エルズペス)</h4>
+<div class="mana">{4}{W}{W}</div>
+<div class="type">プレインズウォーカー ― エルズペス</div>
+<div class="poto">4</div>
+<div class="text"><small>[+1]:白の1/1の兵士・クリーチャー・トークンを3体戦場に出す。<br>[-3]:パワーが4以上のクリーチャーをすべて破壊する。<br>[-7]:あなたは「あなたがコントロールするクリーチャーは＋2/＋2の修整を受けるとともに飛行を持つ。」を持つ紋章を得る。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="エファラの管理人"><a name="Ephara_s+Warden"></a>
+<img src="/cardlist/thumbs/THS_t/Ephara_s+Warden.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《エファラの管理人》(エファラのかんりにん)</h4>
+<div class="mana">{3}{W}</div>
+<div class="type">クリーチャー ― 人間・クレリック</div>
+<div class="poto">1/2</div>
+<div class="text">{Tap}：パワーが3以下のクリーチャー1体を対象とし、それをタップする。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ヘリオッドの福音者"><a name="Evangel+of+Heliod"></a>
+<img src="/cardlist/thumbs/THS_t/Evangel+of+Heliod.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ヘリオッドの福音者》(ヘリオッドのふくいんしゃ)</h4>
+<div class="mana">{4}{W}{W}</div>
+<div class="type">クリーチャー ― 人間・クレリック</div>
+<div class="poto">1/3</div>
+<div class="text"><small>ヘリオッドの福音者が戦場に出たとき、あなたの白への信心に等しい数の白の1/1の兵士・クリーチャー・トークンを戦場に出す。（あなたの白への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{W}の総数に等しい。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="威名の英雄"><a name="Fabled+Hero"></a>
+<img src="/cardlist/thumbs/THS_t/Fabled+Hero.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《威名の英雄》(いめいのえいゆう)</h4>
+<div class="mana">{1}{W}{W}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">2/2</div>
+<div class="text">二段攻撃<br>英雄的―あなたが威名の英雄を対象とする呪文を1つ唱えるたび、威名の英雄の上に＋1/＋1カウンターを1個置く。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="恩寵の重装歩兵"><a name="Favored+Hoplite"></a>
+<img src="/cardlist/thumbs/THS_t/Favored+Hoplite.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《恩寵の重装歩兵》(おんちょうのじゅうそうほへい)</h4>
+<div class="mana">{W}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">1/2</div>
+<div class="text">英雄的―あなたが恩寵の重装歩兵を対象とする呪文を1つ唱えるたび、恩寵の重装歩兵の上に＋1/＋1カウンターを1個置く。また、このターン、これに与えられるすべてのダメージを軽減する。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="不死の贈り物"><a name="Gift+of+Immortality"></a>
+<img src="/cardlist/thumbs/THS_t/Gift+of+Immortality.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《不死の贈り物》(ふしのおくりもの)</h4>
+<div class="mana">{2}{W}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーが死亡したとき、そのカードをオーナーのコントロール下で戦場に戻す。次の終了ステップの開始時に、不死の贈り物をそのクリーチャーにつけられた状態で戦場に戻す。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="異端の輝き"><a name="Glare+of+Heresy"></a>
+<img src="/cardlist/thumbs/THS_t/Glare+of+Heresy.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《異端の輝き》(いたんのかがやき)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">白のパーマネント1つを対象とし、それを追放する。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="神々の思し召し"><a name="Gods+Willing"></a>
+<img src="/cardlist/thumbs/THS_t/Gods+Willing.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《神々の思し召し》(かみがみのおぼしめし)</h4>
+<div class="mana">{W}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>あなたがコントロールするクリーチャー1体を対象とする。それはターン終了時までプロテクション（あなたが選んだ色1色）を得る。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="太陽の神、ヘリオッド"><a name="Heliod_God+of+the+Sun"></a>
+<img src="/cardlist/thumbs/THS_t/Heliod_God+of+the+Sun.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《太陽の神、ヘリオッド》(たいようのかみ、ヘリオッド)</h4>
+<div class="mana">{3}{W}</div>
+<div class="type">伝説のエンチャント・クリーチャー ― 神</div>
+<div class="poto">5/6</div>
+<div class="text"><small>破壊不能<br>あなたの白への信心が5未満であるかぎり、太陽の神、ヘリオッドはクリーチャーではない。（あなたの白への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{W}の総数に等しい。）<br>あなたがコントロールする他のクリーチャーは警戒を持つ。<br>{2}{W}{W}：白の2/1のクレリック・クリーチャー・エンチャント・トークンを1体戦場に出す。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="ヘリオッドの使者"><a name="Heliod_s+Emissary"></a>
+<img src="/cardlist/thumbs/THS_t/Heliod_s+Emissary.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ヘリオッドの使者》(ヘリオッドのししゃ)</h4>
+<div class="mana">{3}{W}</div>
+<div class="type">エンチャント・クリーチャー ― 大鹿</div>
+<div class="poto">3/3</div>
+<div class="text"><small>授与{6}{W}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>ヘリオッドの使者かエンチャントされているクリーチャーが攻撃するたび、対戦相手がコントロールするクリーチャー1体を対象とし、それをタップする。<br>エンチャントされているクリーチャーは＋3/＋3の修整を受ける。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="希望の幻霊"><a name="Hopeful+Eidolon"></a>
+<img src="/cardlist/thumbs/THS_t/Hopeful+Eidolon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《希望の幻霊》(きぼうのげんれい)</h4>
+<div class="mana">{W}</div>
+<div class="type">エンチャント・クリーチャー ― スピリット</div>
+<div class="poto">1/1</div>
+<div class="text"><small>授与{3}{W}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>絆魂（このクリーチャーがダメージを与える場合、さらにあなたはその点数分のライフを得る。）<br>エンチャントされているクリーチャーは、＋1/＋1の修整を受けるとともに絆魂を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="百手巨人"><a name="Hundred-Handed+One"></a>
+<img src="/cardlist/thumbs/THS_t/Hundred-Handed+One.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《百手巨人》(ひゃくしゅきょじん)</h4>
+<div class="mana">{2}{W}{W}</div>
+<div class="type">クリーチャー ― 巨人</div>
+<div class="poto">3/5</div>
+<div class="text"><small>警戒<br>{3}{W}{W}{W}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>百手巨人が怪物的であるかぎり、これは到達を持つとともに、各戦闘でさらに99体のクリーチャーをブロックできる。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="ラゴンナ団の長老"><a name="Lagonna-Band+Elder"></a>
+<img src="/cardlist/thumbs/THS_t/Lagonna-Band+Elder.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ラゴンナ団の長老》(ラゴンナだんのちょうろう)</h4>
+<div class="mana">{2}{W}</div>
+<div class="type">クリーチャー ― ケンタウルス・アドバイザー</div>
+<div class="poto">3/2</div>
+<div class="text">ラゴンナ団の長老が戦場に出たとき、あなたがエンチャントをコントロールしている場合、あなたは3点のライフを得る。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="今わの際"><a name="Last+Breath"></a>
+<img src="/cardlist/thumbs/THS_t/Last+Breath.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《今わの際》(いまわのきわ)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">パワーが2以下のクリーチャー1体を対象とし、それを追放する。それのコントローラーは4点のライフを得る。</div>
+<div class="sets">[MMQ]:U [SHM]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="レオニンの投網使い"><a name="Leonin+Snarecaster"></a>
+<img src="/cardlist/thumbs/THS_t/Leonin+Snarecaster.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《レオニンの投網使い》(レオニンのとあみつかい)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">クリーチャー ― 猫・兵士</div>
+<div class="poto">2/1</div>
+<div class="text">レオニンの投網使いが戦場に出たとき、クリーチャー1体を対象とする。あなたはそれをタップしてもよい。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="目ざといアルセイド"><a name="Observant+Alseid"></a>
+<img src="/cardlist/thumbs/THS_t/Observant+Alseid.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《目ざといアルセイド》(めざといアルセイド)</h4>
+<div class="mana">{2}{W}</div>
+<div class="type">エンチャント・クリーチャー ― ニンフ</div>
+<div class="poto">2/2</div>
+<div class="text"><small>授与{4}{W}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>警戒<br>エンチャントされているクリーチャーは、＋2/＋2の修整を受けるとともに警戒を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ヘリオッドの試練"><a name="Ordeal+of+Heliod"></a>
+<img src="/cardlist/thumbs/THS_t/Ordeal+of+Heliod.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ヘリオッドの試練》(ヘリオッドのしれん)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーが攻撃するたび、その上に＋1/＋1カウンターを1個置く。その後、その上に3個以上の＋1/＋1カウンターが置かれているならば、ヘリオッドの試練を生け贄に捧げる。<br>あなたがヘリオッドの試練を生け贄に捧げたとき、あなたは10点のライフを得る。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="密集軍の指揮者"><a name="Phalanx+Leader"></a>
+<img src="/cardlist/thumbs/THS_t/Phalanx+Leader.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《密集軍の指揮者》(みっしゅうぐんのしきしゃ)</h4>
+<div class="mana">{W}{W}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">1/1</div>
+<div class="text">英雄的―あなたが密集軍の指揮者を対象とする呪文を1つ唱えるたび、あなたがコントロールする各クリーチャーの上に＋1/＋1カウンターをそれぞれ1個置く。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="解消の光"><a name="Ray+of+Dissolution"></a>
+<img src="/cardlist/thumbs/THS_t/Ray+of+Dissolution.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《解消の光》(かいしょうのひかり)</h4>
+<div class="mana">{2}{W}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">エンチャント1つを対象とし、それを破壊する。あなたは3点のライフを得る。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="エイスリオスの学者"><a name="Scholar+of+Athreos"></a>
+<img src="/cardlist/thumbs/THS_t/Scholar+of+Athreos.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《エイスリオスの学者》(エイスリオスのがくしゃ)</h4>
+<div class="mana">{2}{W}</div>
+<div class="type">クリーチャー ― 人間・クレリック</div>
+<div class="poto">1/4</div>
+<div class="text">{2}{B}：各対戦相手はそれぞれ1点のライフを失う。あなたはこれにより失われたライフに等しい点数のライフを得る。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="セテッサの戦神官"><a name="Setessan+Battle+Priest"></a>
+<img src="/cardlist/thumbs/THS_t/Setessan+Battle+Priest.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《セテッサの戦神官》(セテッサのいくさしんかん)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">クリーチャー ― 人間・クレリック</div>
+<div class="poto">1/3</div>
+<div class="text">英雄的―あなたがセテッサの戦神官を対象とする呪文を1つ唱えるたび、あなたは2点のライフを得る。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="セテッサのグリフィン"><a name="Setessan+Griffin"></a>
+<img src="/cardlist/thumbs/THS_t/Setessan+Griffin.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《セテッサのグリフィン》(セテッサのグリフィン)</h4>
+<div class="mana">{4}{W}</div>
+<div class="type">クリーチャー ― グリフィン</div>
+<div class="poto">3/2</div>
+<div class="text">飛行<br>{2}{G}{G}：セテッサのグリフィンはターン終了時まで＋2/＋2の修整を受ける。この能力は、毎ターン1回のみ起動できる。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="沈黙の職工"><a name="Silent+Artisan"></a>
+<img src="/cardlist/thumbs/THS_t/Silent+Artisan.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《沈黙の職工》(ちんもくのしょっこう)</h4>
+<div class="mana">{3}{W}{W}</div>
+<div class="type">クリーチャー ― 巨人</div>
+<div class="poto">3/5</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="万神殿の兵士"><a name="Soldier+of+the+Pantheon"></a>
+<img src="/cardlist/thumbs/THS_t/Soldier+of+the+Pantheon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《万神殿の兵士》(まんしんでんのへいし)</h4>
+<div class="mana">{W}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">2/1</div>
+<div class="text">プロテクション（多色）<br>対戦相手が多色の呪文を1つ唱えるたび、あなたは1点のライフを得る。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="ヘリオッドの槍"><a name="Spear+of+Heliod"></a>
+<img src="/cardlist/thumbs/THS_t/Spear+of+Heliod.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ヘリオッドの槍》(ヘリオッドのやり)</h4>
+<div class="mana">{1}{W}{W}</div>
+<div class="type">伝説のエンチャント・アーティファクト</div>
+<div class="poto"></div>
+<div class="text">あなたがコントロールするクリーチャーは＋1/＋1の修整を受ける。<br>{1}{W}{W},{Tap}：このターンにあなたにダメージを与えたクリーチャー1体を対象とし、それを破壊する。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="旅する哲人"><a name="Traveling+Philosopher"></a>
+<img src="/cardlist/thumbs/THS_t/Traveling+Philosopher.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《旅する哲人》(たびするてつじん)</h4>
+<div class="mana">{1}{W}</div>
+<div class="type">クリーチャー ― 人間・アドバイザー</div>
+<div class="poto">2/2</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="邪悪退治"><a name="Vanquish+the+Foul"></a>
+<img src="/cardlist/thumbs/THS_t/Vanquish+the+Foul.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《邪悪退治》(じゃあくたいじ)</h4>
+<div class="mana">{5}{W}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">パワーが4以上のクリーチャー1体を対象とし、それを破壊する。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="天馬の乗り手"><a name="Wingsteed+Rider"></a>
+<img src="/cardlist/thumbs/THS_t/Wingsteed+Rider.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《天馬の乗り手》(てんまののりて)</h4>
+<div class="mana">{1}{W}{W}</div>
+<div class="type">クリーチャー ― 人間・騎士</div>
+<div class="poto">2/2</div>
+<div class="text">飛行<br>英雄的―あなたが天馬の乗り手を対象とする呪文を1つ唱えるたび、天馬の乗り手の上に＋1/＋1カウンターを1個置く。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="鋤引きの雄牛"><a name="Yoked+Ox"></a>
+<img src="/cardlist/thumbs/THS_t/Yoked+Ox.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《鋤引きの雄牛》(すきひきのおうし)</h4>
+<div class="mana">{W}</div>
+<div class="type">クリーチャー ― 雄牛</div>
+<div class="poto">0/4</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="無効"><a name="Annul"></a>
+<img src="/cardlist/thumbs/THS_t/Annul.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《無効》(むこう)</h4>
+<div class="mana">{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">アーティファクト呪文1つかエンチャント呪文1つを対象とし、それを打ち消す。</div>
+<div class="sets">[USG]:C [MRD]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="液態化"><a name="Aqueous+Form"></a>
+<img src="/cardlist/thumbs/THS_t/Aqueous+Form.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《液態化》(えきたいか)</h4>
+<div class="mana">{U}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーはブロックされない。<br>エンチャントされているクリーチャーが攻撃するたび、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="形態の職工"><a name="Artisan+of+Forms"></a>
+<img src="/cardlist/thumbs/THS_t/Artisan+of+Forms.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《形態の職工》(けいたいのしょっこう)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">クリーチャー ― 人間・ウィザード</div>
+<div class="poto">1/1</div>
+<div class="text">英雄的―あなたが形態の職工を対象とする呪文を1つ唱えるたび、クリーチャー1体を対象とする。あなたは形態の職工をそれのコピーにしてもよい。そうしたなら、これはこの能力を得る。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="水底の巨人"><a name="Benthic+Giant"></a>
+<img src="/cardlist/thumbs/THS_t/Benthic+Giant.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《水底の巨人》(みずそこのきょじん)</h4>
+<div class="mana">{5}{U}</div>
+<div class="type">クリーチャー ― 巨人</div>
+<div class="poto">4/5</div>
+<div class="text">呪禁（このクリーチャーは、対戦相手がコントロールする呪文や能力の対象にならない。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="タッサの二叉槍"><a name="Bident+of+Thassa"></a>
+<img src="/cardlist/thumbs/THS_t/Bident+of+Thassa.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《タッサの二叉槍》(タッサのふたまたやり)</h4>
+<div class="mana">{2}{U}{U}</div>
+<div class="type">伝説のエンチャント・アーティファクト</div>
+<div class="poto"></div>
+<div class="text"><small>あなたがコントロールするクリーチャー1体がプレイヤー1人に戦闘ダメージを与えるたび、あなたはカードを1枚引いてもよい。<br>{1}{U},{Tap}：対戦相手がコントロールするクリーチャーは、このターン可能なら攻撃する。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="水跳ねの海馬"><a name="Breaching+Hippocamp"></a>
+<img src="/cardlist/thumbs/THS_t/Breaching+Hippocamp.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《水跳ねの海馬》(みずはねのかいば)</h4>
+<div class="mana">{3}{U}</div>
+<div class="type">クリーチャー ― 馬・魚</div>
+<div class="poto">3/2</div>
+<div class="text">瞬速（あなたはこの呪文を、あなたがインスタントを唱えられるときならいつでも唱えてよい。）<br>水跳ねの海馬が戦場に出たとき、あなたがコントロールする他のクリーチャー1体を対象とし、それをアンタップする。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="海岸線のキマイラ"><a name="Coastline+Chimera"></a>
+<img src="/cardlist/thumbs/THS_t/Coastline+Chimera.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《海岸線のキマイラ》(かいがんせんのキマイラ)</h4>
+<div class="mana">{3}{U}</div>
+<div class="type">クリーチャー ― キマイラ</div>
+<div class="poto">1/5</div>
+<div class="text">飛行<br>{1}{W}：このターン、海岸線のキマイラは、さらに1体のクリーチャーをブロックできる。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="はじけるトリトン"><a name="Crackling+Triton"></a>
+<img src="/cardlist/thumbs/THS_t/Crackling+Triton.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《はじけるトリトン》(はじけるトリトン)</h4>
+<div class="mana">{2}{U}</div>
+<div class="type">クリーチャー ― マーフォーク・ウィザード</div>
+<div class="poto">2/3</div>
+<div class="text">{2}{R},はじけるトリトンを生け贄に捧げる：クリーチャー1体かプレイヤー1人を対象とする。はじけるトリトンはそれに2点のダメージを与える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="豚の呪い"><a name="Curse+of+the+Swine"></a>
+<img src="/cardlist/thumbs/THS_t/Curse+of+the+Swine.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《豚の呪い》(ぶたののろい)</h4>
+<div class="mana">{X}{U}{U}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">クリーチャーＸ体を対象とし、それを追放する。これにより追放されたクリーチャー1体につき、そのコントローラーは緑の2/2の猪・クリーチャー・トークンを1体戦場に出す。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="解消"><a name="Dissolve"></a>
+<img src="/cardlist/thumbs/THS_t/Dissolve.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《解消》(かいしょう)</h4>
+<div class="mana">{1}{U}{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">呪文1つを対象とし、それを打ち消す。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="予記された運命"><a name="Fate+Foretold"></a>
+<img src="/cardlist/thumbs/THS_t/Fate+Foretold.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《予記された運命》(よきされたうんめい)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">エンチャント（クリーチャー）<br>予記された運命が戦場に出たとき、カードを1枚引く。<br>エンチャントされているクリーチャーが死亡したとき、そのコントローラーはカードを1枚引く。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="反論"><a name="Gainsay"></a>
+<img src="/cardlist/thumbs/THS_t/Gainsay.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《反論》(はんろん)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">青の呪文1つを対象とし、それを打ち消す。</div>
+<div class="sets">[PLS]:U [THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="捕海"><a name="Griptide"></a>
+<img src="/cardlist/thumbs/THS_t/Griptide.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《捕海》(ほかい)</h4>
+<div class="mana">{3}{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とし、それをオーナーのライブラリーの一番上に置く。</div>
+<div class="sets">[DKA]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="地平の識者"><a name="Horizon+Scholar"></a>
+<img src="/cardlist/thumbs/THS_t/Horizon+Scholar.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《地平の識者》(ちへいのしきしゃ)</h4>
+<div class="mana">{5}{U}</div>
+<div class="type">クリーチャー ― スフィンクス</div>
+<div class="poto">4/4</div>
+<div class="text"><small>飛行<br>地平の識者が戦場に出たとき、占術2を行う。（あなたのライブラリーの一番上から2枚のカードを見て、そのうちの望む枚数のカードを望む順番であなたのライブラリーの一番下に置き、残りを望む順番で一番上に置く。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="迷宮での迷子"><a name="Lost+in+a+Labyrinth"></a>
+<img src="/cardlist/thumbs/THS_t/Lost+in+a+Labyrinth.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《迷宮での迷子》(めいきゅうでのまいご)</h4>
+<div class="mana">{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体を対象とする。それはターン終了時まで－3/－0の修整を受ける。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="波使い"><a name="Master+of+Waves"></a>
+<img src="/cardlist/thumbs/THS_t/Master+of+Waves.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《波使い》(なみつかい)</h4>
+<div class="mana">{3}{U}</div>
+<div class="type">クリーチャー ― マーフォーク・ウィザード</div>
+<div class="poto">2/1</div>
+<div class="text"><small>プロテクション（赤）<br>あなたがコントロールするエレメンタル・クリーチャーは＋1/＋1の修整を受ける。<br>波使いが戦場に出たとき、あなたの青への信心に等しい数の青の1/0のエレメンタル・クリーチャー・トークンを戦場に出す。（あなたの青への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{U}の総数に等しい。）</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="メレティスのほら吹き"><a name="Meletis+Charlatan"></a>
+<img src="/cardlist/thumbs/THS_t/Meletis+Charlatan.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《メレティスのほら吹き》(メレティスのほらふき)</h4>
+<div class="mana">{2}{U}</div>
+<div class="type">クリーチャー ― 人間・ウィザード</div>
+<div class="poto">2/3</div>
+<div class="text">{2}{U},{Tap}：インスタント呪文1つかソーサリー呪文1つを対象とする。それのコントローラーはその呪文をコピーする。そのプレイヤーはコピーの新しい対象を選んでもよい。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="記憶の壁"><a name="Mnemonic+Wall"></a>
+<img src="/cardlist/thumbs/THS_t/Mnemonic+Wall.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《記憶の壁》(きおくのかべ)</h4>
+<div class="mana">{4}{U}</div>
+<div class="type">クリーチャー ― 壁</div>
+<div class="poto">0/4</div>
+<div class="text">防衛<br>記憶の壁が戦場に出たとき、あなたの墓地にあるインスタント・カード1枚かソーサリー・カード1枚を対象とする。あなたはそれをあなたの手札に戻してもよい。</div>
+<div class="sets">[ROE]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="雨雲のナイアード"><a name="Nimbus+Naiad"></a>
+<img src="/cardlist/thumbs/THS_t/Nimbus+Naiad.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《雨雲のナイアード》(あまぐものナイアード)</h4>
+<div class="mana">{2}{U}</div>
+<div class="type">エンチャント・クリーチャー ― ニンフ</div>
+<div class="poto">2/2</div>
+<div class="text"><small>授与{4}{U}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>飛行<br>エンチャントされているクリーチャーは、＋2/＋2の修整を受けるとともに飛行を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="前兆語り"><a name="Omenspeaker"></a>
+<img src="/cardlist/thumbs/THS_t/Omenspeaker.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《前兆語り》(ぜんちょうがたり)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">クリーチャー ― 人間・ウィザード</div>
+<div class="poto">1/3</div>
+<div class="text">前兆語りが戦場に出たとき、占術2を行う。（あなたのライブラリーの一番上から2枚のカードを見て、そのうちの望む枚数のカードを望む順番であなたのライブラリーの一番下に置き、残りを望む順番で一番上に置く。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="タッサの試練"><a name="Ordeal+of+Thassa"></a>
+<img src="/cardlist/thumbs/THS_t/Ordeal+of+Thassa.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《タッサの試練》(タッサのしれん)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーが攻撃するたび、その上に＋1/＋1カウンターを1個置く。その後、その上に3個以上の＋1/＋1カウンターが置かれているならば、タッサの試練を生け贄に捧げる。<br>あなたがタッサの試練を生け贄に捧げたとき、カードを2枚引く。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="先見のキマイラ"><a name="Prescient+Chimera"></a>
+<img src="/cardlist/thumbs/THS_t/Prescient+Chimera.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《先見のキマイラ》(せんけんのキマイラ)</h4>
+<div class="mana">{3}{U}{U}</div>
+<div class="type">クリーチャー ― キマイラ</div>
+<div class="poto">3/4</div>
+<div class="text">飛行<br>あなたがインスタント呪文かソーサリー呪文を1つ唱えるたび、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="予知するスフィンクス"><a name="Prognostic+Sphinx"></a>
+<img src="/cardlist/thumbs/THS_t/Prognostic+Sphinx.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《予知するスフィンクス》(よちするスフィンクス)</h4>
+<div class="mana">{3}{U}{U}</div>
+<div class="type">クリーチャー ― スフィンクス</div>
+<div class="poto">3/5</div>
+<div class="text"><small>飛行<br>カードを1枚捨てる：予知するスフィンクスはターン終了時まで呪禁を得る。これをタップする。<br>予知するスフィンクスが攻撃するたび、占術3を行う。（あなたのライブラリーの一番上から3枚のカードを見て、そのうちの望む枚数のカードを望む順番であなたのライブラリーの一番下に置き、残りを望む順番で一番上に置く。）</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="海神の復讐"><a name="Sea+God_s+Revenge"></a>
+<img src="/cardlist/thumbs/THS_t/Sea+God_s+Revenge.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《海神の復讐》(かいじんのふくしゅう)</h4>
+<div class="mana">{5}{U}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text"><small>対戦相手がコントロールするクリーチャーを最大3体まで対象とし、それらをオーナーの手札に戻す。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="海檻の怪物"><a name="Sealock+Monster"></a>
+<img src="/cardlist/thumbs/THS_t/Sealock+Monster.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《海檻の怪物》(かいかんのかいぶつ)</h4>
+<div class="mana">{3}{U}{U}</div>
+<div class="type">クリーチャー ― タコ</div>
+<div class="poto">5/5</div>
+<div class="text"><small>海檻の怪物は防御プレイヤーが島をコントロールしていないかぎり攻撃できない。<br>{5}{U}{U}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>海檻の怪物が怪物的になったとき、土地1つを対象とする。それはそれの他のタイプに加えて島にもなる。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="船壊しのクラーケン"><a name="Shipbreaker+Kraken"></a>
+<img src="/cardlist/thumbs/THS_t/Shipbreaker+Kraken.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《船壊しのクラーケン》(ふねこわしのクラーケン)</h4>
+<div class="mana">{4}{U}{U}</div>
+<div class="type">クリーチャー ― クラーケン</div>
+<div class="poto">6/6</div>
+<div class="text"><small>{6}{U}{U}：怪物化4を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを4個置く。これは怪物的になる。）<br>船壊しのクラーケンが怪物的になったとき、クリーチャーを最大4体まで対象とし、それらをタップする。それらのクリーチャーは、あなたが船壊しのクラーケンをコントロールし続けているかぎり、それらのコントローラーのアンタップ・ステップにアンタップしない。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="阻まれた希望"><a name="Stymied+Hopes"></a>
+<img src="/cardlist/thumbs/THS_t/Stymied+Hopes.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《阻まれた希望》(はばまれたきぼう)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>呪文1つを対象とする。そのコントローラーが{1}を支払わないかぎり、それを打ち消す。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="白鳥の歌"><a name="Swan+Song"></a>
+<img src="/cardlist/thumbs/THS_t/Swan+Song.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《白鳥の歌》(はくちょうのうた)</h4>
+<div class="mana">{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">エンチャント呪文1つかインスタント呪文1つかソーサリー呪文1つを対象とし、それを打ち消す。それのコントローラーは、飛行を持つ青の2/2の鳥・クリーチャー・トークンを1体戦場に出す。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="海の神、タッサ"><a name="Thassa_God+of+the+Sea"></a>
+<img src="/cardlist/thumbs/THS_t/Thassa_God+of+the+Sea.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《海の神、タッサ》(うみのかみ、タッサ)</h4>
+<div class="mana">{2}{U}</div>
+<div class="type">伝説のエンチャント・クリーチャー ― 神</div>
+<div class="poto">5/5</div>
+<div class="text"><small>破壊不能<br>あなたの青への信心が5未満であるかぎり、海の神、タッサはクリーチャーではない。（あなたの青への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{U}の総数に等しい。）<br>あなたのアップキープの開始時に、占術1を行う。<br>{1}{U}：あなたがコントロールするクリーチャー1体を対象とする。このターン、それはブロックされない。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="タッサの褒賞"><a name="Thassa_s+Bounty"></a>
+<img src="/cardlist/thumbs/THS_t/Thassa_s+Bounty.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《タッサの褒賞》(タッサのほうしょう)</h4>
+<div class="mana">{5}{U}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">プレイヤー1人を対象とする。あなたはカードを3枚引く。そのプレイヤーは、自分のライブラリーの一番上から3枚のカードを自分の墓地に置く。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="タッサの使者"><a name="Thassa_s+Emissary"></a>
+<img src="/cardlist/thumbs/THS_t/Thassa_s+Emissary.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《タッサの使者》(タッサのししゃ)</h4>
+<div class="mana">{3}{U}</div>
+<div class="type">エンチャント・クリーチャー ― カニ</div>
+<div class="poto">3/3</div>
+<div class="text"><small>授与{5}{U}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>タッサの使者かエンチャントされているクリーチャーがプレイヤー1人に戦闘ダメージを与えるたび、カードを1枚引く。<br>エンチャントされているクリーチャーは＋3/＋3の修整を受ける。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="トリトンの財宝狩り"><a name="Triton+Fortune+Hunter"></a>
+<img src="/cardlist/thumbs/THS_t/Triton+Fortune+Hunter.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《トリトンの財宝狩り》(トリトンのざいほうがり)</h4>
+<div class="mana">{2}{U}</div>
+<div class="type">クリーチャー ― マーフォーク・兵士</div>
+<div class="poto">2/2</div>
+<div class="text">英雄的―あなたがトリトンの財宝狩りを対象とする呪文を1つ唱えるたび、カードを1枚引く。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="トリトンの岸盗人"><a name="Triton+Shorethief"></a>
+<img src="/cardlist/thumbs/THS_t/Triton+Shorethief.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《トリトンの岸盗人》(トリトンのきしぬすびと)</h4>
+<div class="mana">{U}</div>
+<div class="type">クリーチャー ― マーフォーク・ならず者</div>
+<div class="poto">1/2</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="トリトンの戦術"><a name="Triton+Tactics"></a>
+<img src="/cardlist/thumbs/THS_t/Triton+Tactics.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《トリトンの戦術》(トリトンのせんじゅつ)</h4>
+<div class="mana">{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャーを最大2体まで対象とする。それらはターン終了時までそれぞれ＋0/＋3の修整を受ける。それらのクリーチャーをアンタップする。このターンの次の戦闘終了時に、このターンにそれらのクリーチャーによってブロックされた各クリーチャーをタップする。それらはそれらのコントローラーの次のアンタップ・ステップにアンタップしない。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="蒸気の精"><a name="Vaporkin"></a>
+<img src="/cardlist/thumbs/THS_t/Vaporkin.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《蒸気の精》(じょうきのせい)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">クリーチャー ― エレメンタル</div>
+<div class="poto">2/1</div>
+<div class="text">飛行<br>蒸気の精は飛行を持つクリーチャーのみをブロックできる。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="航海の終わり"><a name="Voyage_s+End"></a>
+<img src="/cardlist/thumbs/THS_t/Voyage_s+End.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《航海の終わり》(こうかいのおわり)</h4>
+<div class="mana">{1}{U}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とし、それをオーナーの手札に戻す。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="波濤砕きのトリトン"><a name="Wavecrash+Triton"></a>
+<img src="/cardlist/thumbs/THS_t/Wavecrash+Triton.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《波濤砕きのトリトン》(はとうくだきのトリトン)</h4>
+<div class="mana">{2}{U}</div>
+<div class="type">クリーチャー ― マーフォーク・ウィザード</div>
+<div class="poto">1/4</div>
+<div class="text"><small>英雄的―あなたが波濤砕きのトリトンを対象とする呪文を1つ唱えるたび、対戦相手がコントロールするクリーチャー1体を対象とし、それをタップする。そのクリーチャーは、それのコントローラーの次のアンタップ・ステップにアンタップしない。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="忌まわしき首領"><a name="Abhorrent+Overlord"></a>
+<img src="/cardlist/thumbs/THS_t/Abhorrent+Overlord.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《忌まわしき首領》(いまわしきしゅりょう)</h4>
+<div class="mana">{5}{B}{B}</div>
+<div class="type">クリーチャー ― デーモン</div>
+<div class="poto">6/6</div>
+<div class="text"><small>飛行<br>忌まわしき首領が戦場に出たとき、飛行を持つ黒の1/1のハーピー・クリーチャー・トークンをあなたの黒への信心に等しい数だけ戦場に出す。（あなたの黒への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{B}の総数に等しい。）<br>あなたのアップキープの開始時に、クリーチャーを1体生け贄に捧げる。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="運命の工作員"><a name="Agent+of+the+Fates"></a>
+<img src="/cardlist/thumbs/THS_t/Agent+of+the+Fates.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《運命の工作員》(うんめいのこうさくいん)</h4>
+<div class="mana">{1}{B}{B}</div>
+<div class="type">クリーチャー ― 人間・暗殺者</div>
+<div class="poto">3/2</div>
+<div class="text">接死<br>英雄的―あなたが運命の工作員を対象とする呪文を1つ唱えるたび、各対戦相手はそれぞれクリーチャーを1体生け贄に捧げる。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="アスフォデルの放浪者"><a name="Asphodel+Wanderer"></a>
+<img src="/cardlist/thumbs/THS_t/Asphodel+Wanderer.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アスフォデルの放浪者》(アスフォデルのほうろうしゃ)</h4>
+<div class="mana">{B}</div>
+<div class="type">クリーチャー ― スケルトン・兵士</div>
+<div class="poto">1/1</div>
+<div class="text">{2}{B}：アスフォデルの放浪者を再生する。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="悪意の幻霊"><a name="Baleful+Eidolon"></a>
+<img src="/cardlist/thumbs/THS_t/Baleful+Eidolon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《悪意の幻霊》(あくいのげんれい)</h4>
+<div class="mana">{1}{B}</div>
+<div class="type">エンチャント・クリーチャー ― スピリット</div>
+<div class="poto">1/1</div>
+<div class="text"><small>授与{4}{B}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>接死（これが何らかのダメージをクリーチャーに与えた場合、それだけで破壊される。）<br>エンチャントされているクリーチャーは、＋1/＋1の修整を受けるとともに接死を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="血集りのハーピー"><a name="Blood-Toll+Harpy"></a>
+<img src="/cardlist/thumbs/THS_t/Blood-Toll+Harpy.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《血集りのハーピー》(ちたかりのハーピー)</h4>
+<div class="mana">{2}{B}</div>
+<div class="type">クリーチャー ― ハーピー</div>
+<div class="poto">2/1</div>
+<div class="text">飛行<br>血集りのハーピーが戦場に出たとき、各プレイヤーはそれぞれ1点のライフを失う。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="エレボスの加護"><a name="Boon+of+Erebos"></a>
+<img src="/cardlist/thumbs/THS_t/Boon+of+Erebos.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《エレボスの加護》(エレボスのかご)</h4>
+<div class="mana">{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とする。それはターン終了時まで＋2/＋0の修整を受ける。それを再生する。あなたは2点のライフを失う。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="洞窟のランパード"><a name="Cavern+Lampad"></a>
+<img src="/cardlist/thumbs/THS_t/Cavern+Lampad.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《洞窟のランパード》(どうくつのランパード)</h4>
+<div class="mana">{3}{B}</div>
+<div class="type">エンチャント・クリーチャー ― ニンフ</div>
+<div class="poto">2/2</div>
+<div class="text"><small>授与{5}{B}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>威嚇<br>エンチャントされているクリーチャーは、＋2/＋2の修整を受けるとともに威嚇を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="殺し屋の行動"><a name="Cutthroat+Maneuver"></a>
+<img src="/cardlist/thumbs/THS_t/Cutthroat+Maneuver.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《殺し屋の行動》(ころしやのこうどう)</h4>
+<div class="mana">{3}{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャーを最大2体まで対象とする。それらはそれぞれターン終了時まで＋1/＋1の修整を受けるとともに絆魂を得る。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="闇の裏切り"><a name="Dark+Betrayal"></a>
+<img src="/cardlist/thumbs/THS_t/Dark+Betrayal.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《闇の裏切り》(やみのうらぎり)</h4>
+<div class="mana">{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">黒のクリーチャー1体を対象とし、それを破壊する。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="フィナックスの信奉者"><a name="Disciple+of+Phenax"></a>
+<img src="/cardlist/thumbs/THS_t/Disciple+of+Phenax.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《フィナックスの信奉者》(フィナックスのしんぽうしゃ)</h4>
+<div class="mana">{2}{B}{B}</div>
+<div class="type">クリーチャー ― 人間・クレリック</div>
+<div class="poto">1/3</div>
+<div class="text"><small>フィナックスの信奉者が戦場に出たとき、プレイヤー1人を対象とする。そのプレイヤーは自分の手札から、あなたの黒への信心に等しい枚数のカードを公開する。あなたはそのうちの1枚を選ぶ。そのプレイヤーはそのカードを捨てる。（あなたの黒への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{B}の総数に等しい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="死者の神、エレボス"><a name="Erebos_God+of+the+Dead"></a>
+<img src="/cardlist/thumbs/THS_t/Erebos_God+of+the+Dead.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《死者の神、エレボス》(ししゃのかみ、エレボス)</h4>
+<div class="mana">{3}{B}</div>
+<div class="type">伝説のエンチャント・クリーチャー ― 神</div>
+<div class="poto">5/7</div>
+<div class="text"><small>破壊不能<br>あなたの黒への信心が5未満であるかぎり、死者の神、エレボスはクリーチャーではない。（あなたの黒への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{B}の総数に等しい。）<br>対戦相手はライフを得られない。<br>{1}{B},ライフを2点支払う：カードを1枚引く。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="エレボスの使者"><a name="Erebos_s+Emissary"></a>
+<img src="/cardlist/thumbs/THS_t/Erebos_s+Emissary.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《エレボスの使者》(エレボスのししゃ)</h4>
+<div class="mana">{3}{B}</div>
+<div class="type">エンチャント・クリーチャー ― 蛇</div>
+<div class="poto">3/3</div>
+<div class="text"><small>授与{5}{B}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>クリーチャー・カードを1枚捨てる：エレボスの使者は、ターン終了時まで＋2/＋2の修整を受ける。エレボスの使者がオーラである場合、代わりにエンチャントされているクリーチャーはターン終了時まで＋2/＋2の修整を受ける。<br>エンチャントされているクリーチャーは＋3/＋3の修整を受ける。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="悪魔の皮のミノタウルス"><a name="Felhide+Minotaur"></a>
+<img src="/cardlist/thumbs/THS_t/Felhide+Minotaur.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《悪魔の皮のミノタウルス》(あくまのかわのミノタウルス)</h4>
+<div class="mana">{2}{B}</div>
+<div class="type">クリーチャー ― ミノタウルス</div>
+<div class="poto">2/3</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="肉餓えの馬"><a name="Fleshmad+Steed"></a>
+<img src="/cardlist/thumbs/THS_t/Fleshmad+Steed.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《肉餓えの馬》(にくうえのうま)</h4>
+<div class="mana">{1}{B}</div>
+<div class="type">クリーチャー ― 馬</div>
+<div class="poto">2/2</div>
+<div class="text">他のクリーチャーが1体死亡するたび、肉餓えの馬をタップする。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="アスフォデルの灰色商人"><a name="Gray+Merchant+of+Asphodel"></a>
+<img src="/cardlist/thumbs/THS_t/Gray+Merchant+of+Asphodel.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アスフォデルの灰色商人》(アスフォデルのはいいろしょうにん)</h4>
+<div class="mana">{3}{B}{B}</div>
+<div class="type">クリーチャー ― ゾンビ</div>
+<div class="poto">2/4</div>
+<div class="text"><small>アスフォデルの灰色商人が戦場に出たとき、各対戦相手はそれぞれＸ点のライフを失う。Ｘはあなたの黒への信心に等しい。あなたはこれにより失われたライフに等しい点数のライフを得る。（あなたの黒への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{B}の総数に等しい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="英雄の破滅"><a name="Hero_s+Downfall"></a>
+<img src="/cardlist/thumbs/THS_t/Hero_s+Downfall.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《英雄の破滅》(えいゆうのはめつ)</h4>
+<div class="mana">{1}{B}{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体かプレインズウォーカー1体を対象とし、それを破壊する。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="残酷なハイソニア"><a name="Hythonia+the+Cruel"></a>
+<img src="/cardlist/thumbs/THS_t/Hythonia+the+Cruel.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《残酷なハイソニア》(ざんこくなハイソニア)</h4>
+<div class="mana">{4}{B}{B}</div>
+<div class="type">伝説のクリーチャー ― ゴルゴン</div>
+<div class="poto">4/6</div>
+<div class="text"><small>接死<br>{6}{B}{B}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>残酷なハイソニアが怪物的になったとき、ゴルゴンでないすべてのクリーチャーを破壊する。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="強欲なハーピー"><a name="Insatiable+Harpy"></a>
+<img src="/cardlist/thumbs/THS_t/Insatiable+Harpy.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《強欲なハーピー》(ごうよくなハーピー)</h4>
+<div class="mana">{2}{B}{B}</div>
+<div class="type">クリーチャー ― ハーピー</div>
+<div class="poto">2/2</div>
+<div class="text">飛行、絆魂</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="形見持ちのゴルゴン"><a name="Keepsake+Gorgon"></a>
+<img src="/cardlist/thumbs/THS_t/Keepsake+Gorgon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《形見持ちのゴルゴン》(かたみもちのゴルゴン)</h4>
+<div class="mana">{3}{B}{B}</div>
+<div class="type">クリーチャー ― ゴルゴン</div>
+<div class="poto">2/5</div>
+<div class="text"><small>接死<br>{5}{B}{B}：怪物化1を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを1個置く。これは怪物的になる。）<br>形見持ちのゴルゴンが怪物的になったとき、対戦相手がコントロールするゴルゴンでないクリーチャー1体を対象とし、それを破壊する。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="鞭の一振り"><a name="Lash+of+the+Whip"></a>
+<img src="/cardlist/thumbs/THS_t/Lash+of+the+Whip.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《鞭の一振り》(むちのひとふり)</h4>
+<div class="mana">{4}{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とする。それはターン終了時まで－4/－4の修整を受ける。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="毒々しいカトブレパス"><a name="Loathsome+Catoblepas"></a>
+<img src="/cardlist/thumbs/THS_t/Loathsome+Catoblepas.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《毒々しいカトブレパス》(どくどくしいカトブレパス)</h4>
+<div class="mana">{5}{B}</div>
+<div class="type">クリーチャー ― ビースト</div>
+<div class="poto">3/3</div>
+<div class="text"><small>{2}{G}：このターン、毒々しいカトブレパスは可能ならブロックされなければならない。<br>毒々しいカトブレパスが死亡したとき、対戦相手がコントロールするクリーチャー1体を対象とする。それはターン終了時まで－3/－3の修整を受ける。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="蘇りし者の行進"><a name="March+of+the+Returned"></a>
+<img src="/cardlist/thumbs/THS_t/March+of+the+Returned.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《蘇りし者の行進》(よみがえりしもののこうしん)</h4>
+<div class="mana">{3}{B}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">あなたの墓地にあるクリーチャー・カードを最大2枚まで対象とし、それらをあなたの手札に戻す。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="モーギスの匪賊"><a name="Mogis_s+Marauder"></a>
+<img src="/cardlist/thumbs/THS_t/Mogis_s+Marauder.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《モーギスの匪賊》(モーギスのひぞく)</h4>
+<div class="mana">{2}{B}</div>
+<div class="type">クリーチャー ― 人間・狂戦士</div>
+<div class="poto">2/2</div>
+<div class="text"><small>モーギスの匪賊が戦場に出たとき、クリーチャーを最大Ｘ体まで対象とする。それらはターン終了時まで威嚇と速攻を得る。Ｘはあなたの黒への信心に等しい。（あなたの黒への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{B}の総数に等しい。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="夜の咆哮獣"><a name="Nighthowler"></a>
+<img src="/cardlist/thumbs/THS_t/Nighthowler.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《夜の咆哮獣》(よるのほうこうじゅう)</h4>
+<div class="mana">{1}{B}{B}</div>
+<div class="type">エンチャント・クリーチャー ― ホラー</div>
+<div class="poto">0/0</div>
+<div class="text"><small>授与{2}{B}{B}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>夜の咆哮獣とエンチャントされているクリーチャーは、それぞれ＋Ｘ/＋Ｘの修整を受ける。Ｘはすべての墓地にあるクリーチャー・カードの総数に等しい。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="エレボスの試練"><a name="Ordeal+of+Erebos"></a>
+<img src="/cardlist/thumbs/THS_t/Ordeal+of+Erebos.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《エレボスの試練》(エレボスのしれん)</h4>
+<div class="mana">{1}{B}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーが攻撃するたび、その上に＋1/＋1カウンターを1個置く。その後、その上に3個以上の＋1/＋1カウンターが置かれているならば、エレボスの試練を生け贄に捧げる。<br>あなたがエレボスの試練を生け贄に捧げたとき、プレイヤー1人を対象とする。そのプレイヤーはカードを2枚捨てる。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="ファリカの療法"><a name="Pharika_s+Cure"></a>
+<img src="/cardlist/thumbs/THS_t/Pharika_s+Cure.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ファリカの療法》(ファリカのりょうほう)</h4>
+<div class="mana">{B}{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とする。ファリカの療法はそれに2点のダメージを与え、あなたは2点のライフを得る。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="骨読み"><a name="Read+the+Bones"></a>
+<img src="/cardlist/thumbs/THS_t/Read+the+Bones.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《骨読み》(ほねよみ)</h4>
+<div class="mana">{2}{B}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text"><small>占術2を行い、その後カードを2枚引く。あなたは2点のライフを失う。（占術2を行うには、あなたのライブラリーの一番上から2枚のカードを見て、そのうちの望む枚数のカードを望む順番であなたのライブラリーの一番下に置き、残りを望む順番で一番上に置く。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="死の国からの救出"><a name="Rescue+from+the+Underworld"></a>
+<img src="/cardlist/thumbs/THS_t/Rescue+from+the+Underworld.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《死の国からの救出》(しのくにからのきゅうしゅつ)</h4>
+<div class="mana">{4}{B}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>死の国からの救出を唱えるための追加コストとして、クリーチャーを1体生け贄に捧げる。<br>あなたの墓地にあるクリーチャー・カード1枚を対象とする。あなたの次のアップキープの開始時に、そのカードと生け贄に捧げられたカードをあなたのコントロール下で戦場に戻す。死の国からの救出を追放する。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="蘇りしケンタウルス"><a name="Returned+Centaur"></a>
+<img src="/cardlist/thumbs/THS_t/Returned+Centaur.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《蘇りしケンタウルス》(よみがえりしケンタウルス)</h4>
+<div class="mana">{3}{B}</div>
+<div class="type">クリーチャー ― ゾンビ・ケンタウルス</div>
+<div class="poto">2/4</div>
+<div class="text">蘇りしケンタウルスが戦場に出たとき、プレイヤー1人を対象とする。そのプレイヤーは、自分のライブラリーの一番上から4枚のカードを自分の墓地に置く。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="蘇りし者の密集軍"><a name="Returned+Phalanx"></a>
+<img src="/cardlist/thumbs/THS_t/Returned+Phalanx.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《蘇りし者の密集軍》(よみがえりしもののみっしゅうぐん)</h4>
+<div class="mana">{1}{B}</div>
+<div class="type">クリーチャー ― ゾンビ・兵士</div>
+<div class="poto">3/3</div>
+<div class="text">防衛<br>{1}{U}：このターン、蘇りし者の密集軍は防衛を持たないかのように攻撃できる。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="災いの印"><a name="Scourgemark"></a>
+<img src="/cardlist/thumbs/THS_t/Scourgemark.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《災いの印》(わざわいのいん)</h4>
+<div class="mana">{1}{B}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">エンチャント（クリーチャー）<br>災いの印が戦場に出たとき、カードを1枚引く。<br>エンチャントされているクリーチャーは＋1/＋0の修整を受ける。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="一口の草毒"><a name="Sip+of+Hemlock"></a>
+<img src="/cardlist/thumbs/THS_t/Sip+of+Hemlock.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《一口の草毒》(ひとくちのそうどく)</h4>
+<div class="mana">{4}{B}{B}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とし、それを破壊する。それのコントローラーは2点のライフを失う。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="思考囲い"><a name="Thoughtseize"></a>
+<img src="/cardlist/thumbs/THS_t/Thoughtseize.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《思考囲い》(しこうがこい)</h4>
+<div class="mana">{B}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">プレイヤー1人を対象とする。そのプレイヤーは自分の手札を公開する。あなたはその中から土地でないカードを1枚選ぶ。そのプレイヤーはそのカードを捨てる。あなたは2点のライフを失う。</div>
+<div class="sets">[LRW]:R [THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="苛まれし英雄"><a name="Tormented+Hero"></a>
+<img src="/cardlist/thumbs/THS_t/Tormented+Hero.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《苛まれし英雄》(さいなまれしえいゆう)</h4>
+<div class="mana">{B}</div>
+<div class="type">クリーチャー ― 人間・戦士</div>
+<div class="poto">2/1</div>
+<div class="text"><small>苛まれし英雄はタップ状態で戦場に出る。<br>英雄的―あなたが苛まれし英雄を対象とする呪文を1つ唱えるたび、各対戦相手はそれぞれ1点のライフを失う。あなたはこれにより失われたライフに等しい点数のライフを得る。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="毒蛇座の口づけ"><a name="Viper_s+Kiss"></a>
+<img src="/cardlist/thumbs/THS_t/Viper_s+Kiss.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《毒蛇座の口づけ》(どくへびざのくちづけ)</h4>
+<div class="mana">{B}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">エンチャント（クリーチャー）<br>エンチャントされているクリーチャーは－1/－1の修整を受けるとともに、それの起動型能力は起動できない。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="エレボスの鞭"><a name="Whip+of+Erebos"></a>
+<img src="/cardlist/thumbs/THS_t/Whip+of+Erebos.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《エレボスの鞭》(エレボスのむち)</h4>
+<div class="mana">{2}{B}{B}</div>
+<div class="type">伝説のエンチャント・アーティファクト</div>
+<div class="poto"></div>
+<div class="text"><small>あなたがコントロールするクリーチャーは絆魂を持つ。<br>{2}{B}{B},{Tap}：あなたの墓地にあるクリーチャー・カード1枚を対象とし、それを戦場に戻す。それは速攻を得る。次の終了ステップの開始時に、それを追放する。それが戦場を離れる場合、それを他のいずれかの領域に置く代わりにそれを追放する。この能力は、あなたがソーサリーを唱えられるときにのみ起動できる。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="アクロスの十字軍"><a name="Akroan+Crusader"></a>
+<img src="/cardlist/thumbs/THS_t/Akroan+Crusader.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アクロスの十字軍》(アクロスのじゅうじぐん)</h4>
+<div class="mana">{R}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">1/1</div>
+<div class="text">英雄的―あなたがアクロスの十字軍を対象とする呪文を1つ唱えるたび、速攻を持つ赤の1/1の兵士・クリーチャー・トークンを1体戦場に出す。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="神々の憤怒"><a name="Anger+of+the+Gods"></a>
+<img src="/cardlist/thumbs/THS_t/Anger+of+the+Gods.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《神々の憤怒》(かみがみのふんぬ)</h4>
+<div class="mana">{1}{R}{R}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">神々の憤怒は各クリーチャーにそれぞれ3点のダメージを与える。このターン、これによりダメージを与えられたクリーチャーが死亡する場合、代わりにそれを追放する。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="闘技場の競技者"><a name="Arena+Athlete"></a>
+<img src="/cardlist/thumbs/THS_t/Arena+Athlete.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《闘技場の競技者》(とうぎじょうのきょうぎしゃ)</h4>
+<div class="mana">{1}{R}</div>
+<div class="type">クリーチャー ― 人間</div>
+<div class="poto">2/1</div>
+<div class="text">英雄的―あなたが闘技場の競技者を対象とする呪文を1つ唱えるたび、対戦相手がコントロールするクリーチャー1体を対象とする。このターン、それではブロックできない。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="国境地帯のミノタウルス"><a name="Borderland+Minotaur"></a>
+<img src="/cardlist/thumbs/THS_t/Borderland+Minotaur.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《国境地帯のミノタウルス》(こっきょうちたいのミノタウルス)</h4>
+<div class="mana">{2}{R}{R}</div>
+<div class="type">クリーチャー ― ミノタウルス・戦士</div>
+<div class="poto">4/3</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="落岩"><a name="Boulderfall"></a>
+<img src="/cardlist/thumbs/THS_t/Boulderfall.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《落岩》(らくがん)</h4>
+<div class="mana">{6}{R}{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">望む数のクリーチャーかプレイヤー（またはその組み合わせ）を対象とする。落岩はそれらに、5点のダメージをあなたの望むように分割して与える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="統率の取れた突撃"><a name="Coordinated+Assault"></a>
+<img src="/cardlist/thumbs/THS_t/Coordinated+Assault.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《統率の取れた突撃》(とうそつのとれたとつげき)</h4>
+<div class="mana">{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャーを最大2体まで対象とする。それらはターン終了時まで、それぞれ＋1/＋0の修整を受けるとともに先制攻撃を得る。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="死呻きの略奪者"><a name="Deathbellow+Raider"></a>
+<img src="/cardlist/thumbs/THS_t/Deathbellow+Raider.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《死呻きの略奪者》(しうめきのりゃくだつしゃ)</h4>
+<div class="mana">{1}{R}</div>
+<div class="type">クリーチャー ― ミノタウルス・狂戦士</div>
+<div class="poto">2/3</div>
+<div class="text">死呻きの略奪者は可能なら毎ターン攻撃する。<br>{2}{B}：死呻きの略奪者を再生する。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="破砕"><a name="Demolish"></a>
+<img src="/cardlist/thumbs/THS_t/Demolish.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《破砕》(はさい)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">アーティファクト1つか土地1つを対象とし、それを破壊する。</div>
+<div class="sets">[ODY]:U [8ED]:U [9ED]:U [10E]:C [ZEN]:C [M11]:C [AVR]:C [M14]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ドラゴンのマントル"><a name="Dragon+Mantle"></a>
+<img src="/cardlist/thumbs/THS_t/Dragon+Mantle.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ドラゴンのマントル》(ドラゴンのマントル)</h4>
+<div class="mana">{R}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>ドラゴンのマントルが戦場に出たとき、カードを1枚引く。<br>エンチャントされているクリーチャーは「{R}：このクリーチャーはターン終了時まで＋1/＋0の修整を受ける。」を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="燃えさし呑み"><a name="Ember+Swallower"></a>
+<img src="/cardlist/thumbs/THS_t/Ember+Swallower.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《燃えさし呑み》(もえさしのみ)</h4>
+<div class="mana">{2}{R}{R}</div>
+<div class="type">クリーチャー ― エレメンタル</div>
+<div class="poto">4/5</div>
+<div class="text"><small>{5}{R}{R}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>燃えさし呑みが怪物的になったとき、各プレイヤーはそれぞれ土地を3つ生け贄に捧げる。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="モーギスの狂信者"><a name="Fanatic+of+Mogis"></a>
+<img src="/cardlist/thumbs/THS_t/Fanatic+of+Mogis.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《モーギスの狂信者》(モーギスのきょうしんしゃ)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">クリーチャー ― ミノタウルス・シャーマン</div>
+<div class="poto">4/2</div>
+<div class="text"><small>モーギスの狂信者が戦場に出たとき、これは各対戦相手に、それぞれあなたの赤への信心に等しい点数のダメージを与える。（あなたの赤への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{R}の総数に等しい。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="火飲みのサテュロス"><a name="Firedrinker+Satyr"></a>
+<img src="/cardlist/thumbs/THS_t/Firedrinker+Satyr.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《火飲みのサテュロス》(ひのみのサテュロス)</h4>
+<div class="mana">{R}</div>
+<div class="type">クリーチャー ― サテュロス・シャーマン</div>
+<div class="poto">2/1</div>
+<div class="text"><small>火飲みのサテュロスにダメージが与えられるたび、これはその点数に等しい点数のダメージをあなたに与える。<br>{1}{R}：火飲みのサテュロスはターン終了時まで＋1/＋0の修整を受けるとともに、あなたに1点のダメージを与える。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="炎語りの達人"><a name="Flamespeaker+Adept"></a>
+<img src="/cardlist/thumbs/THS_t/Flamespeaker+Adept.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《炎語りの達人》(ほのおがたりのたつじん)</h4>
+<div class="mana">{2}{R}</div>
+<div class="type">クリーチャー ― 人間・シャーマン</div>
+<div class="poto">2/3</div>
+<div class="text">あなたが占術を行うたび、炎語りの達人はターン終了時まで＋2/＋0の修整を受けるとともに先制攻撃を得る。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="パーフォロスの槌"><a name="Hammer+of+Purphoros"></a>
+<img src="/cardlist/thumbs/THS_t/Hammer+of+Purphoros.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《パーフォロスの槌》(パーフォロスのつち)</h4>
+<div class="mana">{1}{R}{R}</div>
+<div class="type">伝説のエンチャント・アーティファクト</div>
+<div class="poto"></div>
+<div class="text">あなたがコントロールするクリーチャーは速攻を持つ。<br>{2}{R},{Tap},土地を1つ生け贄に捧げる：無色の3/3のゴーレム・アーティファクト・クリーチャー・エンチャント・トークンを1体戦場に出す。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="不機嫌なサイクロプス"><a name="Ill-Tempered+Cyclops"></a>
+<img src="/cardlist/thumbs/THS_t/Ill-Tempered+Cyclops.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《不機嫌なサイクロプス》(ふきげんなサイクロプス)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">クリーチャー ― サイクロプス</div>
+<div class="poto">3/3</div>
+<div class="text">トランプル<br>{5}{R}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="迷宮の勇者"><a name="Labyrinth+Champion"></a>
+<img src="/cardlist/thumbs/THS_t/Labyrinth+Champion.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《迷宮の勇者》(めいきゅうのゆうしゃ)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">クリーチャー ― 人間・戦士</div>
+<div class="poto">2/2</div>
+<div class="text">英雄的―あなたが迷宮の勇者を対象とする呪文を1つ唱えるたび、クリーチャー1体かプレイヤー1人を対象とする。迷宮の勇者はそれに2点のダメージを与える。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="稲妻の一撃"><a name="Lightning+Strike"></a>
+<img src="/cardlist/thumbs/THS_t/Lightning+Strike.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《稲妻の一撃》(いなずまのいちげき)</h4>
+<div class="mana">{1}{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体かプレイヤー1人を対象とする。稲妻の一撃はそれに3点のダメージを与える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="マグマの噴流"><a name="Magma+Jet"></a>
+<img src="/cardlist/thumbs/THS_t/Magma+Jet.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《マグマの噴流》(マグマのふんりゅう)</h4>
+<div class="mana">{1}{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体かプレイヤー1人を対象とする。マグマの噴流はそれに2点のダメージを与える。占術2を行う。（あなたのライブラリーの一番上から2枚のカードを見て、そのうちの望む枚数のカードを望む順番であなたのライブラリーの一番下に置き、残りを望む順番で一番上に置く。）</small></div>
+<div class="sets">[5DN]:U [THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="伝書使の素早さ"><a name="Messenger_s+Speed"></a>
+<img src="/cardlist/thumbs/THS_t/Messenger_s+Speed.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《伝書使の素早さ》(でんしょしのすばやさ)</h4>
+<div class="mana">{R}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">エンチャント（クリーチャー）<br>エンチャントされているクリーチャーはトランプルと速攻を持つ。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ミノタウルスの頭蓋断ち"><a name="Minotaur+Skullcleaver"></a>
+<img src="/cardlist/thumbs/THS_t/Minotaur+Skullcleaver.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ミノタウルスの頭蓋断ち》(ミノタウルスのずがいだち)</h4>
+<div class="mana">{2}{R}</div>
+<div class="type">クリーチャー ― ミノタウルス・狂戦士</div>
+<div class="poto">2/2</div>
+<div class="text">速攻<br>ミノタウルスの頭蓋断ちが戦場に出たとき、これはターン終了時まで＋2/＋0の修整を受ける。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="パーフォロスの試練"><a name="Ordeal+of+Purphoros"></a>
+<img src="/cardlist/thumbs/THS_t/Ordeal+of+Purphoros.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《パーフォロスの試練》(パーフォロスのしれん)</h4>
+<div class="mana">{1}{R}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーが攻撃するたび、その上に＋1/＋1カウンターを1個置く。その後、その上に3個以上の＋1/＋1カウンターが置かれているならば、パーフォロスの試練を生け贄に捧げる。<br>あなたがパーフォロスの試練を生け贄に捧げたとき、クリーチャー1体かプレイヤー1人を対象とする。パーフォロスの試練はそれに3点のダメージを与える。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="峰の噴火"><a name="Peak+Eruption"></a>
+<img src="/cardlist/thumbs/THS_t/Peak+Eruption.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《峰の噴火》(みねのふんか)</h4>
+<div class="mana">{2}{R}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">山1つを対象とし、それを破壊する。峰の噴火はその土地のコントローラーに3点のダメージを与える。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="裏切りの先触れ"><a name="Portent+of+Betrayal"></a>
+<img src="/cardlist/thumbs/THS_t/Portent+of+Betrayal.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《裏切りの先触れ》(うらぎりのさきぶれ)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体を対象とし、ターン終了時までそれのコントロールを得る。そのクリーチャーをアンタップする。それはターン終了時まで速攻を得る。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="イロアスの神官"><a name="Priest+of+Iroas"></a>
+<img src="/cardlist/thumbs/THS_t/Priest+of+Iroas.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《イロアスの神官》(イロアスのしんかん)</h4>
+<div class="mana">{R}</div>
+<div class="type">クリーチャー ― 人間・クレリック</div>
+<div class="poto">1/1</div>
+<div class="text">{3}{W},イロアスの神官を生け贄に捧げる：エンチャント1つを対象とし、それを破壊する。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="鍛冶の神、パーフォロス"><a name="Purphoros_God+of+the+Forge"></a>
+<img src="/cardlist/thumbs/THS_t/Purphoros_God+of+the+Forge.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《鍛冶の神、パーフォロス》(かじのかみ、パーフォロス)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">伝説のエンチャント・クリーチャー ― 神</div>
+<div class="poto">6/5</div>
+<div class="text"><small>破壊不能<br>あなたの赤への信心が5未満であるかぎり、鍛冶の神、パーフォロスはクリーチャーではない。<br>他のクリーチャーが1体あなたのコントロール下で戦場に出るたび、鍛冶の神、パーフォロスは各対戦相手にそれぞれ2点のダメージを与える。<br>{2}{R}：あなたがコントロールするクリーチャーは、ターン終了時まで＋1/＋0の修整を受ける。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="パーフォロスの使者"><a name="Purphoros_s+Emissary"></a>
+<img src="/cardlist/thumbs/THS_t/Purphoros_s+Emissary.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《パーフォロスの使者》(パーフォロスのししゃ)</h4>
+<div class="mana">{3}{R}</div>
+<div class="type">エンチャント・クリーチャー ― 雄牛</div>
+<div class="poto">3/3</div>
+<div class="text"><small>授与{6}{R}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>パーフォロスの使者は、2体以上のクリーチャーによってしかブロックされない。<br>エンチャントされているクリーチャーは＋3/＋3の修整を受けるとともに、2体以上のクリーチャーによってしかブロックされない。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="パーフォロスの激怒"><a name="Rage+of+Purphoros"></a>
+<img src="/cardlist/thumbs/THS_t/Rage+of+Purphoros.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《パーフォロスの激怒》(パーフォロスのげきど)</h4>
+<div class="mana">{4}{R}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体を対象とする。パーフォロスの激怒はそれに4点のダメージを与える。このターン、それは再生できない。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="怒血のシャーマン"><a name="Rageblood+Shaman"></a>
+<img src="/cardlist/thumbs/THS_t/Rageblood+Shaman.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《怒血のシャーマン》(どけつのシャーマン)</h4>
+<div class="mana">{1}{R}{R}</div>
+<div class="type">クリーチャー ― ミノタウルス・シャーマン</div>
+<div class="poto">2/3</div>
+<div class="text">トランプル<br>あなたがコントロールする他のミノタウルス・クリーチャーは＋1/＋1の修整を受けるとともにトランプルを持つ。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="サテュロスの散策者"><a name="Satyr+Rambler"></a>
+<img src="/cardlist/thumbs/THS_t/Satyr+Rambler.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《サテュロスの散策者》(サテュロスのさんさくしゃ)</h4>
+<div class="mana">{1}{R}</div>
+<div class="type">クリーチャー ― サテュロス</div>
+<div class="poto">2/1</div>
+<div class="text">トランプル</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="火花の衝撃"><a name="Spark+Jolt"></a>
+<img src="/cardlist/thumbs/THS_t/Spark+Jolt.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《火花の衝撃》(ひばなのしょうげき)</h4>
+<div class="mana">{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体かプレイヤー1人を対象とする。火花の衝撃はそれに1点のダメージを与える。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="槍先のオリアード"><a name="Spearpoint+Oread"></a>
+<img src="/cardlist/thumbs/THS_t/Spearpoint+Oread.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《槍先のオリアード》(やりさきのオリアード)</h4>
+<div class="mana">{2}{R}</div>
+<div class="type">エンチャント・クリーチャー ― ニンフ</div>
+<div class="poto">2/2</div>
+<div class="text"><small>授与{5}{R}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>先制攻撃<br>エンチャントされているクリーチャーは＋2/＋2の修整を受けるとともに先制攻撃を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="石殴りの巨人"><a name="Stoneshock+Giant"></a>
+<img src="/cardlist/thumbs/THS_t/Stoneshock+Giant.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《石殴りの巨人》(いしなぐりのきょじん)</h4>
+<div class="mana">{3}{R}{R}</div>
+<div class="type">クリーチャー ― 巨人</div>
+<div class="poto">5/4</div>
+<div class="text"><small>{6}{R}{R}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>石殴りの巨人が怪物的になったとき、このターン、対戦相手がコントロールする飛行を持たないクリーチャーではブロックできない。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="嵐の息吹のドラゴン"><a name="Stormbreath+Dragon"></a>
+<img src="/cardlist/thumbs/THS_t/Stormbreath+Dragon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《嵐の息吹のドラゴン》(あらしのいぶきのドラゴン)</h4>
+<div class="mana">{3}{R}{R}</div>
+<div class="type">クリーチャー ― ドラゴン</div>
+<div class="poto">4/4</div>
+<div class="text"><small>飛行、速攻、プロテクション（白）<br>{5}{R}{R}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>嵐の息吹のドラゴンが怪物的になったとき、これは各対戦相手にそれぞれそのプレイヤーの手札にあるカードの総数に等しい点数のダメージを与える。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="永遠の炎のタイタン"><a name="Titan+of+Eternal+Fire"></a>
+<img src="/cardlist/thumbs/THS_t/Titan+of+Eternal+Fire.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《永遠の炎のタイタン》(えいえんのほのおのタイタン)</h4>
+<div class="mana">{5}{R}</div>
+<div class="type">クリーチャー ― 巨人</div>
+<div class="poto">5/6</div>
+<div class="text">あなたがコントロールする人間・クリーチャーはそれぞれ「{R},{Tap}：クリーチャー1体かプレイヤー1人を対象とする。このクリーチャーはそれに1点のダメージを与える。」を持つ。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="タイタンの力"><a name="Titan_s+Strength"></a>
+<img src="/cardlist/thumbs/THS_t/Titan_s+Strength.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《タイタンの力》(タイタンのちから)</h4>
+<div class="mana">{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>クリーチャー1体を対象とする。それはターン終了時まで＋3/＋1の修整を受ける。占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="双頭のケルベロス"><a name="Two-Headed+Cerberus"></a>
+<img src="/cardlist/thumbs/THS_t/Two-Headed+Cerberus.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《双頭のケルベロス》(そうとうのケルベロス)</h4>
+<div class="mana">{1}{R}{R}</div>
+<div class="type">クリーチャー ― 猟犬</div>
+<div class="poto">1/2</div>
+<div class="text">二段攻撃（このクリーチャーは先制攻撃と通常の戦闘ダメージの両方を与える。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="野蛮な祝賀者"><a name="Wild+Celebrants"></a>
+<img src="/cardlist/thumbs/THS_t/Wild+Celebrants.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《野蛮な祝賀者》(やばんなしゅくがしゃ)</h4>
+<div class="mana">{3}{R}{R}</div>
+<div class="type">クリーチャー ― サテュロス</div>
+<div class="poto">5/3</div>
+<div class="text">野蛮な祝賀者が戦場に出たとき、アーティファクト1つを対象とする。あなたはそれを破壊してもよい。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="彼方の工作員"><a name="Agent+of+Horizons"></a>
+<img src="/cardlist/thumbs/THS_t/Agent+of+Horizons.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《彼方の工作員》(かなたのこうさくいん)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">クリーチャー ― 人間・ならず者</div>
+<div class="poto">3/2</div>
+<div class="text">{2}{U}：このターン、彼方の工作員はブロックされない。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="セテッサの英雄、アンソーザ"><a name="Anthousa_Setessan+Hero"></a>
+<img src="/cardlist/thumbs/THS_t/Anthousa_Setessan+Hero.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《セテッサの英雄、アンソーザ》(セテッサのえいゆう、アンソーザ)</h4>
+<div class="mana">{3}{G}{G}</div>
+<div class="type">伝説のクリーチャー ― 人間・戦士</div>
+<div class="poto">4/5</div>
+<div class="text"><small>英雄的―あなたがセテッサの英雄、アンソーザを対象とする呪文を1つ唱えるたび、あなたがコントロールする土地を最大3つまで対象とする。それらはそれぞれターン終了時まで2/2の戦士・クリーチャーになる。それらは土地でもある。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="高木の巨人"><a name="Arbor+Colossus"></a>
+<img src="/cardlist/thumbs/THS_t/Arbor+Colossus.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《高木の巨人》(こうぼくのきょじん)</h4>
+<div class="mana">{2}{G}{G}{G}</div>
+<div class="type">クリーチャー ― 巨人</div>
+<div class="poto">6/6</div>
+<div class="text"><small>到達<br>{3}{G}{G}{G}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>高木の巨人が怪物的になったとき、対戦相手がコントロールする飛行を持つクリーチャー1体を対象とし、それを破壊する。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="職工の悲しみ"><a name="Artisan_s+Sorrow"></a>
+<img src="/cardlist/thumbs/THS_t/Artisan_s+Sorrow.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《職工の悲しみ》(しょっこうのかなしみ)</h4>
+<div class="mana">{3}{G}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text"><small>アーティファクト1つかエンチャント1つを対象とし、それを破壊する。占術2を行う。（あなたのライブラリーの一番上から2枚のカードを見て、そのうちの望む枚数のカードを望む順番であなたのライブラリーの一番下に置き、残りを望む順番で一番上に置く。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="加護のサテュロス"><a name="Boon+Satyr"></a>
+<img src="/cardlist/thumbs/THS_t/Boon+Satyr.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《加護のサテュロス》(かごのサテュロス)</h4>
+<div class="mana">{1}{G}{G}</div>
+<div class="type">エンチャント・クリーチャー ― サテュロス</div>
+<div class="poto">4/2</div>
+<div class="text"><small>瞬速<br>授与{3}{G}{G}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>エンチャントされているクリーチャーは＋4/＋2の修整を受ける。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="ナイレアの弓"><a name="Bow+of+Nylea"></a>
+<img src="/cardlist/thumbs/THS_t/Bow+of+Nylea.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ナイレアの弓》(ナイレアのゆみ)</h4>
+<div class="mana">{1}{G}{G}</div>
+<div class="type">伝説のエンチャント・アーティファクト</div>
+<div class="poto"></div>
+<div class="text"><small>あなたがコントロールする攻撃クリーチャーは接死を持つ。<br>{1}{G},{Tap}：以下の4つから1つを選ぶ。「クリーチャー1体を対象とする。それの上に＋1/＋1カウンターを1個置く。」「飛行を持つクリーチャー1体を対象とする。ナイレアの弓はそれに2点のダメージを与える。」「あなたは3点のライフを得る。」「あなたの墓地にあるカードを最大4枚まで対象とし、それらをあなたのライブラリーの一番下に望む順番で置く。」</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="ケンタウルスの戦上手"><a name="Centaur+Battlemaster"></a>
+<img src="/cardlist/thumbs/THS_t/Centaur+Battlemaster.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ケンタウルスの戦上手》(ケンタウルスのいくさじょうず)</h4>
+<div class="mana">{3}{G}{G}</div>
+<div class="type">クリーチャー ― ケンタウルス・戦士</div>
+<div class="poto">3/3</div>
+<div class="text">英雄的―あなたがケンタウルスの戦上手を対象とする呪文を1つ唱えるたび、ケンタウルスの戦上手の上に＋1/＋1カウンターを3個置く。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="神々との融和"><a name="Commune+with+the+Gods"></a>
+<img src="/cardlist/thumbs/THS_t/Commune+with+the+Gods.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《神々との融和》(かみがみとのゆうわ)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">あなたのライブラリーの一番上から5枚のカードを公開する。あなたは、それらの中にあるクリーチャー・カードかエンチャント・カードを1枚あなたの手札に加えてもよい。残りをあなたの墓地に置く。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="拠点防衛"><a name="Defend+the+Hearth"></a>
+<img src="/cardlist/thumbs/THS_t/Defend+the+Hearth.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《拠点防衛》(きょてんぼうえい)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">このターン、プレイヤーに与えられるすべての戦闘ダメージを軽減する。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="古代への衰退"><a name="Fade+into+Antiquity"></a>
+<img src="/cardlist/thumbs/THS_t/Fade+into+Antiquity.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《古代への衰退》(こだいへのすいたい)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">アーティファクト1つかエンチャント1つを対象とし、それを追放する。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="残忍な発動"><a name="Feral+Invocation"></a>
+<img src="/cardlist/thumbs/THS_t/Feral+Invocation.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《残忍な発動》(ざんにんなはつどう)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">瞬速（あなたはこの呪文を、あなたがインスタントを唱えられるときならいつでも唱えてよい。）<br>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーは＋2/＋2の修整を受ける。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="狩人狩り"><a name="Hunt+the+Hunter"></a>
+<img src="/cardlist/thumbs/THS_t/Hunt+the+Hunter.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《狩人狩り》(かりゅうどがり)</h4>
+<div class="mana">{G}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text">あなたがコントロールする緑のクリーチャー1体と、対戦相手がコントロールする緑のクリーチャー1体を対象とする。その前者はターン終了時まで＋2/＋2の修整を受ける。その前者はその後者と格闘を行う。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="ケイラメトラの侍祭"><a name="Karametra_s+Acolyte"></a>
+<img src="/cardlist/thumbs/THS_t/Karametra_s+Acolyte.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ケイラメトラの侍祭》(ケイラメトラのじさい)</h4>
+<div class="mana">{3}{G}</div>
+<div class="type">クリーチャー ― 人間・ドルイド</div>
+<div class="poto">1/4</div>
+<div class="text">{Tap}：あなたのマナ・プールに、あなたの緑への信心に等しい点数の{G}を加える。（あなたの緑への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{G}の総数に等しい。）</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="葉冠のドライアド"><a name="Leafcrown+Dryad"></a>
+<img src="/cardlist/thumbs/THS_t/Leafcrown+Dryad.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《葉冠のドライアド》(はかんむりのドライアド)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">エンチャント・クリーチャー ― ニンフ・ドライアド</div>
+<div class="poto">2/2</div>
+<div class="text"><small>授与{3}{G}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>到達<br>エンチャントされているクリーチャーは、＋2/＋2の修整を受けるとともに到達を持つ。</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="霧裂きのハイドラ"><a name="Mistcutter+Hydra"></a>
+<img src="/cardlist/thumbs/THS_t/Mistcutter+Hydra.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《霧裂きのハイドラ》(きりさきのハイドラ)</h4>
+<div class="mana">{X}{G}</div>
+<div class="type">クリーチャー ― ハイドラ</div>
+<div class="poto">0/0</div>
+<div class="text">霧裂きのハイドラは打ち消されない。<br>速攻、プロテクション（青）<br>霧裂きのハイドラは、＋1/＋1カウンターがＸ個置かれた状態で戦場に出る。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="定命の者の宿敵"><a name="Nemesis+of+Mortals"></a>
+<img src="/cardlist/thumbs/THS_t/Nemesis+of+Mortals.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《定命の者の宿敵》(じょうみょうのもののしゅくてき)</h4>
+<div class="mana">{4}{G}{G}</div>
+<div class="type">クリーチャー ― 蛇</div>
+<div class="poto">5/5</div>
+<div class="text"><small>定命の者の宿敵を唱えるためのコストは、あなたの墓地にあるクリーチャー・カード1枚につき{1}少なくなる。<br>{7}{G}{G}：怪物化5を行う。この能力を起動するためのコストは、あなたの墓地にあるクリーチャー・カード1枚につき{1}少なくなる。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを5個置く。これは怪物的になる。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="ネシアンのアスプ"><a name="Nessian+Asp"></a>
+<img src="/cardlist/thumbs/THS_t/Nessian+Asp.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ネシアンのアスプ》(ネシアンのアスプ)</h4>
+<div class="mana">{4}{G}</div>
+<div class="type">クリーチャー ― 蛇</div>
+<div class="poto">4/5</div>
+<div class="text">到達<br>{6}{G}：怪物化4を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを4個置く。これは怪物的になる。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ネシアンの狩猟者"><a name="Nessian+Courser"></a>
+<img src="/cardlist/thumbs/THS_t/Nessian+Courser.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ネシアンの狩猟者》(ネシアンのしゅりょうしゃ)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">クリーチャー ― ケンタウルス・戦士</div>
+<div class="poto">3/3</div>
+<div class="text"></div>
+<div class="sets">[FUT]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="狩猟の神、ナイレア"><a name="Nylea_God+of+the+Hunt"></a>
+<img src="/cardlist/thumbs/THS_t/Nylea_God+of+the+Hunt.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《狩猟の神、ナイレア》(しゅりょうのかみ、ナイレア)</h4>
+<div class="mana">{3}{G}</div>
+<div class="type">伝説のエンチャント・クリーチャー ― 神</div>
+<div class="poto">6/6</div>
+<div class="text"><small>破壊不能<br>あなたの緑への信心が5未満であるかぎり、狩猟の神、ナイレアはクリーチャーではない。（あなたの緑への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{G}の総数に等しい。）<br>あなたがコントロールする他のクリーチャーはトランプルを持つ。<br>{3}{G}：クリーチャー1体を対象とする。それはターン終了時まで＋2/＋2の修整を受ける。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="ナイレアの信奉者"><a name="Nylea_s+Disciple"></a>
+<img src="/cardlist/thumbs/THS_t/Nylea_s+Disciple.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ナイレアの信奉者》(ナイレアのしんぽうしゃ)</h4>
+<div class="mana">{2}{G}{G}</div>
+<div class="type">クリーチャー ― ケンタウルス・射手</div>
+<div class="poto">3/3</div>
+<div class="text">ナイレアの信奉者が戦場に出たとき、あなたはあなたの緑への信心に等しい点数のライフを得る。（あなたの緑への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{G}の総数に等しい。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ナイレアの使者"><a name="Nylea_s+Emissary"></a>
+<img src="/cardlist/thumbs/THS_t/Nylea_s+Emissary.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ナイレアの使者》(ナイレアのししゃ)</h4>
+<div class="mana">{3}{G}</div>
+<div class="type">エンチャント・クリーチャー ― 猫</div>
+<div class="poto">3/3</div>
+<div class="text"><small>授与{5}{G}（このカードを授与コストで唱えた場合、これはエンチャント（クリーチャー）を持つオーラ呪文である。クリーチャーにつけられていない場合、これは再びクリーチャーになる。）<br>トランプル<br>エンチャントされているクリーチャーは、＋3/＋3の修整を受けるとともにトランプルを持つ。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="ナイレアの存在"><a name="Nylea_s+Presence"></a>
+<img src="/cardlist/thumbs/THS_t/Nylea_s+Presence.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ナイレアの存在》(ナイレアのそんざい)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text">エンチャント（土地）<br>ナイレアの存在が戦場に出たとき、カードを1枚引く。<br>エンチャントされている土地は、他のタイプに加えてすべての基本土地タイプでもある。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="ナイレアの試練"><a name="Ordeal+of+Nylea"></a>
+<img src="/cardlist/thumbs/THS_t/Ordeal+of+Nylea.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ナイレアの試練》(ナイレアのしれん)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">エンチャント ― オーラ</div>
+<div class="poto"></div>
+<div class="text"><small>エンチャント（クリーチャー）<br>エンチャントされているクリーチャーが攻撃するたび、その上に＋1/＋1カウンターを1個置く。その後、その上に3個以上の＋1/＋1カウンターが置かれているならば、ナイレアの試練を生け贄に捧げる。<br>あなたがナイレアの試練を生け贄に捧げたとき、あなたはあなたのライブラリーから基本土地カードを最大2枚まで探し、それらをタップ状態で戦場に出し、その後あなたのライブラリーを切り直す。</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="フィーリーズ団のケンタウルス"><a name="Pheres-Band+Centaurs"></a>
+<img src="/cardlist/thumbs/THS_t/Pheres-Band+Centaurs.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《フィーリーズ団のケンタウルス》(フィーリーズだんのケンタウルス)</h4>
+<div class="mana">{4}{G}</div>
+<div class="type">クリーチャー ― ケンタウルス・戦士</div>
+<div class="poto">3/7</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="世界を喰らう者、ポルクラノス"><a name="Polukranos_World+Eater"></a>
+<img src="/cardlist/thumbs/THS_t/Polukranos_World+Eater.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《世界を喰らう者、ポルクラノス》(せかいをくらうもの、ポルクラノス)</h4>
+<div class="mana">{2}{G}{G}</div>
+<div class="type">伝説のクリーチャー ― ハイドラ</div>
+<div class="poto">5/5</div>
+<div class="text"><small>{X}{X}{G}：怪物化Ｘを行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターをＸ個置く。これは怪物的になる。）<br>世界を喰らう者、ポルクラノスが怪物的になったとき、対戦相手がコントロールするクリーチャーを望む数だけ対象とする。世界を喰らう者、ポルクラノスはそれらに、Ｘ点のダメージをあなたの望むように分割して与える。それらの各クリーチャーは、それぞれのパワーに等しい点数のダメージを世界を喰らう者、ポルクラノスに与える。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="恭しき狩人"><a name="Reverent+Hunter"></a>
+<img src="/cardlist/thumbs/THS_t/Reverent+Hunter.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《恭しき狩人》(うやうやしきかりゅうど)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">クリーチャー ― 人間・射手</div>
+<div class="poto">1/1</div>
+<div class="text"><small>恭しき狩人が戦場に出たとき、この上にあなたの緑への信心に等しい数の＋1/＋1カウンターを置く。（あなたの緑への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{G}の総数に等しい。）</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="サテュロスの享楽者"><a name="Satyr+Hedonist"></a>
+<img src="/cardlist/thumbs/THS_t/Satyr+Hedonist.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《サテュロスの享楽者》(サテュロスのきょうらくしゃ)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">クリーチャー ― サテュロス</div>
+<div class="poto">2/1</div>
+<div class="text">{R},サテュロスの享楽者を生け贄に捧げる：あなたのマナ・プールに{R}{R}{R}を加える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="サテュロスの笛吹き"><a name="Satyr+Piper"></a>
+<img src="/cardlist/thumbs/THS_t/Satyr+Piper.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《サテュロスの笛吹き》(サテュロスのふえふき)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">クリーチャー ― サテュロス・ならず者</div>
+<div class="poto">2/1</div>
+<div class="text">{3}{G}：クリーチャー1体を対象とする。このターン、それは可能ならブロックされなければならない。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="蛮族の血気"><a name="Savage+Surge"></a>
+<img src="/cardlist/thumbs/THS_t/Savage+Surge.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《蛮族の血気》(ばんぞくのけっき)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">クリーチャー1体を対象とする。それはターン終了時まで＋2/＋2の修整を受ける。そのクリーチャーをアンタップする。</div>
+<div class="sets">[RTR]:U [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="菅草の蠍"><a name="Sedge+Scorpion"></a>
+<img src="/cardlist/thumbs/THS_t/Sedge+Scorpion.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《菅草の蠍》(すげぐさのさそり)</h4>
+<div class="mana">{G}</div>
+<div class="type">クリーチャー ― 蠍</div>
+<div class="poto">1/1</div>
+<div class="text">接死（これが何らかのダメージをクリーチャーに与えた場合、それだけで破壊される。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="切り裂く風"><a name="Shredding+Winds"></a>
+<img src="/cardlist/thumbs/THS_t/Shredding+Winds.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《切り裂く風》(きりさくかぜ)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">飛行を持つクリーチャー1体を対象とする。切り裂く風はそれに7点のダメージを与える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="信条の戦士"><a name="Staunch-Hearted+Warrior"></a>
+<img src="/cardlist/thumbs/THS_t/Staunch-Hearted+Warrior.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《信条の戦士》(しんじょうのせんし)</h4>
+<div class="mana">{3}{G}</div>
+<div class="type">クリーチャー ― 人間・戦士</div>
+<div class="poto">2/2</div>
+<div class="text">英雄的―あなたが信条の戦士を対象とする呪文を1つ唱えるたび、信条の戦士の上に＋1/＋1カウンターを2個置く。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="森の女人像"><a name="Sylvan+Caryatid"></a>
+<img src="/cardlist/thumbs/THS_t/Sylvan+Caryatid.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《森の女人像》(もりのにょにんぞう)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">クリーチャー ― 植物</div>
+<div class="poto">0/3</div>
+<div class="text">防衛、呪禁<br>{Tap}：あなたのマナ・プールに、好きな色1色のマナ1点を加える。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="食餌の時間"><a name="Time+to+Feed"></a>
+<img src="/cardlist/thumbs/THS_t/Time+to+Feed.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《食餌の時間》(しょくじのじかん)</h4>
+<div class="mana">{2}{G}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text"><small>対戦相手がコントロールするクリーチャー1体と、あなたがコントロールするクリーチャー1体を対象とする。このターン、その前者が死亡したとき、あなたは3点のライフを得る。その後者はその前者と格闘を行う。（それぞれはもう一方に自身のパワーに等しい点数のダメージを与える。）</small></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="旅するサテュロス"><a name="Voyaging+Satyr"></a>
+<img src="/cardlist/thumbs/THS_t/Voyaging+Satyr.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《旅するサテュロス》(たびするサテュロス)</h4>
+<div class="mana">{1}{G}</div>
+<div class="type">クリーチャー ― サテュロス・ドルイド</div>
+<div class="poto">1/2</div>
+<div class="text">{Tap}：土地1つを対象とし、それをアンタップする。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="巨体の狐"><a name="Vulpine+Goliath"></a>
+<img src="/cardlist/thumbs/THS_t/Vulpine+Goliath.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《巨体の狐》(きょたいのきつね)</h4>
+<div class="mana">{4}{G}{G}</div>
+<div class="type">クリーチャー ― 狐</div>
+<div class="poto">6/5</div>
+<div class="text">トランプル</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="戦士の教訓"><a name="Warriors_Lesson"></a>
+<img src="/cardlist/thumbs/THS_t/Warriors_Lesson.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《戦士の教訓》(せんしのきょうくん)</h4>
+<div class="mana">{G}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">あなたがコントロールするクリーチャーを最大2体まで対象とする。それらはそれぞれターン終了時まで「このクリーチャーがプレイヤー1人に戦闘ダメージを与えるたび、カードを1枚引く。」を得る。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="アクロスの重装歩兵"><a name="Akroan+Hoplite"></a>
+<img src="/cardlist/thumbs/THS_t/Akroan+Hoplite.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アクロスの重装歩兵》(アクロスのじゅうそうほへい)</h4>
+<div class="mana">{R}{W}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">1/2</div>
+<div class="text">アクロスの重装歩兵が攻撃するたび、これはターン終了時まで＋Ｘ/＋0の修整を受ける。Ｘはあなたがコントロールする攻撃クリーチャーの総数に等しい。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="アナックスとサイミーディ"><a name="Anax+and+Cymede"></a>
+<img src="/cardlist/thumbs/THS_t/Anax+and+Cymede.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アナックスとサイミーディ》(アナックスとサイミーディ)</h4>
+<div class="mana">{1}{R}{W}</div>
+<div class="type">伝説のクリーチャー ― 人間・兵士</div>
+<div class="poto">3/2</div>
+<div class="text">先制攻撃、警戒<br>英雄的―あなたがアナックスとサイミーディを対象とする呪文を1つ唱えるたび、あなたがコントロールするクリーチャーは、ターン終了時まで＋1/＋1の修整を受けるとともにトランプルを得る。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="灰燼の乗り手"><a name="Ashen+Rider"></a>
+<img src="/cardlist/thumbs/THS_t/Ashen+Rider.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《灰燼の乗り手》(かいじんののりて)</h4>
+<div class="mana">{4}{W}{W}{B}{B}</div>
+<div class="type">クリーチャー ― 執政官</div>
+<div class="poto">5/5</div>
+<div class="text">飛行<br>灰燼の乗り手が戦場に出たか死亡したとき、パーマネント1つを対象とし、それを追放する。</div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="悪夢の織り手、アショク"><a name="Ashiok_Nightmare+Weaver"></a>
+<img src="/cardlist/thumbs/THS_t/Ashiok_Nightmare+Weaver.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《悪夢の織り手、アショク》(あくむのおりて、アショク)</h4>
+<div class="mana">{1}{U}{B}</div>
+<div class="type">プレインズウォーカー ― アショク</div>
+<div class="poto">3</div>
+<div class="text"><small>[+2]:対戦相手1人を対象とし、そのプレイヤーのライブラリーの一番上から3枚のカードを追放する。<br>[-X]:悪夢の織り手、アショクによって追放された点数で見たマナ・コストがＸのクリーチャー・カード1枚をあなたのコントロール下で戦場に出す。そのクリーチャーは、他のタイプに加えてナイトメアでもある。<br>[-10]:すべての対戦相手の手札と墓地にある、すべてのカードを追放する。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="戦識の重装歩兵"><a name="Battlewise+Hoplite"></a>
+<img src="/cardlist/thumbs/THS_t/Battlewise+Hoplite.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《戦識の重装歩兵》(せんしきのじゅうそうほへい)</h4>
+<div class="mana">{W}{U}</div>
+<div class="type">クリーチャー ― 人間・兵士</div>
+<div class="poto">2/2</div>
+<div class="text"><small>英雄的―あなたが戦識の重装歩兵を対象とする呪文を1つ唱えるたび、戦識の重装歩兵の上に＋1/＋1カウンターを1個置き、その後占術1を行う。（占術1を行うには、あなたのライブラリーの一番上のカードを見る。その後そのカードをあなたのライブラリーの一番下に置いてもよい。）</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="英雄の記録者"><a name="Chronicler+of+Heroes"></a>
+<img src="/cardlist/thumbs/THS_t/Chronicler+of+Heroes.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《英雄の記録者》(えいゆうのきろくしゃ)</h4>
+<div class="mana">{1}{G}{W}</div>
+<div class="type">クリーチャー ― ケンタウルス・ウィザード</div>
+<div class="poto">3/3</div>
+<div class="text">英雄の記録者が戦場に出たとき、あなたが＋1/＋1カウンターが置かれたクリーチャーをコントロールしているならばカードを1枚引く。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="メレティスのダクソス"><a name="Daxos+of+Meletis"></a>
+<img src="/cardlist/thumbs/THS_t/Daxos+of+Meletis.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《メレティスのダクソス》(メレティスのダクソス)</h4>
+<div class="mana">{1}{W}{U}</div>
+<div class="type">伝説のクリーチャー ― 人間・兵士</div>
+<div class="poto">2/2</div>
+<div class="text"><small>メレティスのダクソスは、パワーが3以上のクリーチャーによってはブロックされない。<br>メレティスのダクソスがプレイヤー1人に戦闘ダメージを与えるたび、そのプレイヤーのライブラリーの一番上のカードを追放する。あなたはそのカードの点数で見たマナ・コストに等しい点数のライフを得る。ターン終了時まで、あなたは任意のマナをいずれかの色のマナであるかのように支払ってそのカードを唱えてもよい。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="破壊的な享楽"><a name="Destructive+Revelry"></a>
+<img src="/cardlist/thumbs/THS_t/Destructive+Revelry.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《破壊的な享楽》(はかいてきなきょうらく)</h4>
+<div class="mana">{R}{G}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">アーティファクト1つかエンチャント1つを対象とし、それを破壊する。破壊的な享楽はそのパーマネントのコントローラーに2点のダメージを与える。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="羊毛鬣のライオン"><a name="Fleecemane+Lion"></a>
+<img src="/cardlist/thumbs/THS_t/Fleecemane+Lion.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《羊毛鬣のライオン》(ようもうたてがみのライオン)</h4>
+<div class="mana">{G}{W}</div>
+<div class="type">クリーチャー ― 猫</div>
+<div class="poto">3/3</div>
+<div class="text"><small>{3}{G}{W}：怪物化1を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを1個置く。これは怪物的になる。）<br>羊毛鬣のライオンが怪物的であるかぎり、これは呪禁と破壊不能を持つ。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="地平線のキマイラ"><a name="Horizon+Chimera"></a>
+<img src="/cardlist/thumbs/THS_t/Horizon+Chimera.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《地平線のキマイラ》(ちへいせんのキマイラ)</h4>
+<div class="mana">{2}{G}{U}</div>
+<div class="type">クリーチャー ― キマイラ</div>
+<div class="poto">3/2</div>
+<div class="text">瞬速（あなたはこの呪文を、あなたがインスタントを唱えられるときならいつでも唱えてよい。）<br>飛行、トランプル<br>あなたがカードを1枚引くたび、あなたは1点のライフを得る。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="クラグマの戦呼び"><a name="Kragma+Warcaller"></a>
+<img src="/cardlist/thumbs/THS_t/Kragma+Warcaller.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《クラグマの戦呼び》(クラグマのいくさよび)</h4>
+<div class="mana">{3}{B}{R}</div>
+<div class="type">クリーチャー ― ミノタウルス・戦士</div>
+<div class="poto">2/3</div>
+<div class="text">あなたがコントロールするミノタウルス・クリーチャーは速攻を持つ。<br>あなたがコントロールするミノタウルスが1体攻撃するたび、それはターン終了時まで＋2/＋0の修整を受ける。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="老いざるメドマイ"><a name="Medomai+the+Ageless"></a>
+<img src="/cardlist/thumbs/THS_t/Medomai+the+Ageless.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《老いざるメドマイ》(おいざるメドマイ)</h4>
+<div class="mana">{4}{W}{U}</div>
+<div class="type">伝説のクリーチャー ― スフィンクス</div>
+<div class="poto">4/4</div>
+<div class="text">飛行<br>老いざるメドマイがプレイヤー1人に戦闘ダメージを与えるたび、このターンの後に追加の1ターンを行う。<br>老いざるメドマイは追加ターン中には攻撃できない。</div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="ファリカの癒し人"><a name="Pharika_s+Mender"></a>
+<img src="/cardlist/thumbs/THS_t/Pharika_s+Mender.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ファリカの癒し人》(ファリカのいやしびと)</h4>
+<div class="mana">{3}{B}{G}</div>
+<div class="type">クリーチャー ― ゴルゴン</div>
+<div class="poto">4/3</div>
+<div class="text">ファリカの癒し人が戦場に出たとき、あなたの墓地にあるクリーチャー・カード1枚かエンチャント・カード1枚を対象とする。あなたはそれをあなたの手札に戻してもよい。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="都市国家の破壊者"><a name="Polis+Crusher"></a>
+<img src="/cardlist/thumbs/THS_t/Polis+Crusher.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《都市国家の破壊者》(としこっかのはかいしゃ)</h4>
+<div class="mana">{2}{R}{G}</div>
+<div class="type">クリーチャー ― サイクロプス</div>
+<div class="poto">4/4</div>
+<div class="text"><small>トランプル、プロテクション（エンチャント）<br>{4}{R}{G}：怪物化3を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを3個置く。これは怪物的になる。）<br>都市国家の破壊者がプレイヤー1人に戦闘ダメージを与えるたび、都市国家の破壊者が怪物的である場合、そのプレイヤーがコントロールするエンチャント1つを対象とし、それを破壊する。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="クルフィックスの預言者"><a name="Prophet+of+Kruphix"></a>
+<img src="/cardlist/thumbs/THS_t/Prophet+of+Kruphix.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《クルフィックスの預言者》(クルフィックスのよげんしゃ)</h4>
+<div class="mana">{3}{G}{U}</div>
+<div class="type">クリーチャー ― 人間・ウィザード</div>
+<div class="poto">2/3</div>
+<div class="text">他の各プレイヤーのアンタップ・ステップに、あなたがコントロールするすべてのクリーチャーとすべての土地をアンタップする。<br>あなたはクリーチャー・カードを、それが瞬速を持っているかのように唱えてもよい。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="精神的な介入"><a name="Psychic+Intrusion"></a>
+<img src="/cardlist/thumbs/THS_t/Psychic+Intrusion.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《精神的な介入》(せいしんてきなかいにゅう)</h4>
+<div class="mana">{3}{U}{B}</div>
+<div class="type">ソーサリー</div>
+<div class="poto"></div>
+<div class="text"><small>対戦相手1人を対象とする。そのプレイヤーは自分の手札を公開する。あなたはそのプレイヤーの手札または墓地から土地でないカードを1枚選び、そのカードを追放する。そのカードが追放され続けているかぎり、あなたはそのカードを唱えてもよい。その呪文を唱えるために、任意の色のマナであるかのようにマナを支払ってもよい。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="荒野の収穫者"><a name="Reaper+of+the+Wilds"></a>
+<img src="/cardlist/thumbs/THS_t/Reaper+of+the+Wilds.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《荒野の収穫者》(こうやのしゅうかくしゃ)</h4>
+<div class="mana">{2}{B}{G}</div>
+<div class="type">クリーチャー ― ゴルゴン</div>
+<div class="poto">4/5</div>
+<div class="text"><small>他のクリーチャーが1体死亡するたび、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）<br>{B}：荒野の収穫者はターン終了時まで接死を得る。<br>{1}{G}：荒野の収穫者はターン終了時まで呪禁を得る。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="死の国の歩哨"><a name="Sentry+of+the+Underworld"></a>
+<img src="/cardlist/thumbs/THS_t/Sentry+of+the+Underworld.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《死の国の歩哨》(しのくにのほしょう)</h4>
+<div class="mana">{3}{W}{B}</div>
+<div class="type">クリーチャー ― グリフィン・スケルトン</div>
+<div class="poto">3/3</div>
+<div class="text">飛行、警戒<br>{W}{B},ライフを3点支払う：死の国の歩哨を再生する。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="難破船の歌い手"><a name="Shipwreck+Singer"></a>
+<img src="/cardlist/thumbs/THS_t/Shipwreck+Singer.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《難破船の歌い手》(なんぱせんのうたいて)</h4>
+<div class="mana">{U}{B}</div>
+<div class="type">クリーチャー ― セイレーン</div>
+<div class="poto">1/2</div>
+<div class="text">飛行<br>{1}{U}：対戦相手がコントロールするクリーチャー1体を対象とする。このターン、それは可能なら攻撃する。<br>{1}{B},{Tap}：攻撃クリーチャーはターン終了時まで－1/－1の修整を受ける。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="魔心のキマイラ"><a name="Spellheart+Chimera"></a>
+<img src="/cardlist/thumbs/THS_t/Spellheart+Chimera.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《魔心のキマイラ》(ましんのキマイラ)</h4>
+<div class="mana">{1}{U}{R}</div>
+<div class="type">クリーチャー ― キマイラ</div>
+<div class="poto">*/3</div>
+<div class="text">飛行、トランプル<br>魔心のキマイラのパワーは、あなたの墓地にあるインスタント・カードとソーサリー・カードの総数に等しい。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="蒸気占い"><a name="Steam+Augury"></a>
+<img src="/cardlist/thumbs/THS_t/Steam+Augury.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《蒸気占い》(じょうきうらない)</h4>
+<div class="mana">{2}{U}{R}</div>
+<div class="type">インスタント</div>
+<div class="poto"></div>
+<div class="text">あなたのライブラリーの一番上から5枚のカードを公開し、それらを2つの束に分ける。対戦相手1人は、そのうちの1つの束を選ぶ。その束をあなたの手札に加え、もう一方をあなたの墓地に置く。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="運命の三人組"><a name="Triad+of+Fates"></a>
+<img src="/cardlist/thumbs/THS_t/Triad+of+Fates.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《運命の三人組》(うんめいのさんにんぐみ)</h4>
+<div class="mana">{2}{W}{B}</div>
+<div class="type">伝説のクリーチャー ― 人間・ウィザード</div>
+<div class="poto">3/3</div>
+<div class="text"><small>{1},{Tap}：他のクリーチャー1体を対象とし、それの上に運命カウンターを1個置く。<br>{W},{Tap}：運命カウンターが置かれているクリーチャー1体を対象とし、それを追放する。その後、それをオーナーのコントロール下で戦場に戻す。<br>{B},{Tap}：運命カウンターが置かれているクリーチャー1体を対象とし、それを追放する。それのコントローラーはカードを2枚引く。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="殺人王、ティマレット"><a name="Tymaret_the+Murder+King"></a>
+<img src="/cardlist/thumbs/THS_t/Tymaret_the+Murder+King.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《殺人王、ティマレット》(さつじんおう、ティマレット)</h4>
+<div class="mana">{B}{R}</div>
+<div class="type">伝説のクリーチャー ― ゾンビ・戦士</div>
+<div class="poto">2/2</div>
+<div class="text"><small>{1}{R},他のクリーチャーを1体生け贄に捧げる：プレイヤー1人を対象とする。殺人王、ティマレットはそのプレイヤーに2点のダメージを与える。<br>{1}{B},クリーチャーを1体生け贄に捧げる：あなたの墓地にある殺人王、ティマレットをあなたの手札に戻す。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="死の国のケルベロス"><a name="Underworld+Cerberus"></a>
+<img src="/cardlist/thumbs/THS_t/Underworld+Cerberus.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《死の国のケルベロス》(しのくにのケルベロス)</h4>
+<div class="mana">{3}{B}{R}</div>
+<div class="type">クリーチャー ― 猟犬</div>
+<div class="poto">6/6</div>
+<div class="text"><small>死の国のケルベロスは、3体以上のクリーチャーによってしかブロックされない。<br>墓地にあるカードは呪文や能力の対象にならない。<br>死の国のケルベロスが死亡したとき、これを追放し、各プレイヤーはそれぞれ自分の墓地にあるすべてのクリーチャー・カードを自分の手札に戻す。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="歓楽者ゼナゴス"><a name="Xenagos_the+Reveler"></a>
+<img src="/cardlist/thumbs/THS_t/Xenagos_the+Reveler.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《歓楽者ゼナゴス》(かんらくしゃゼナゴス)</h4>
+<div class="mana">{2}{R}{G}</div>
+<div class="type">プレインズウォーカー ― ゼナゴス</div>
+<div class="poto">3</div>
+<div class="text"><small>[+1]:あなたのマナ・プールに、{R}および{G}の好きな組み合わせのマナＸ点を加える。Ｘはあなたがコントロールするクリーチャーの総数に等しい。<br>[0]:速攻を持つ赤であり緑である2/2のサテュロス・クリーチャー・トークンを1体戦場に出す。<br>[-6]:あなたのライブラリーの一番上から7枚のカードを追放する。あなたははそれらのカードの中から望む枚数のクリーチャー・カードおよび土地カードを戦場に出してもよい。</small></div>
+<div class="sets">[THS]:M</div>
+</div>
+<br><hr style="clear: both">
+<div id="アクロスの木馬"><a name="Akroan+Horse"></a>
+<img src="/cardlist/thumbs/THS_t/Akroan+Horse.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アクロスの木馬》(アクロスのもくば)</h4>
+<div class="mana">{4}</div>
+<div class="type">アーティファクト・クリーチャー ― 馬</div>
+<div class="poto">0/4</div>
+<div class="text">防衛<br>アクロスの木馬が戦場に出たとき、対戦相手1人はこれのコントロールを得る。<br>あなたのアップキープの開始時に、各対戦相手はそれぞれ白の1/1の兵士・クリーチャー・トークンを1体戦場に出す。</div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="金床鋳込みの猛禽"><a name="Anvilwrought+Raptor"></a>
+<img src="/cardlist/thumbs/THS_t/Anvilwrought+Raptor.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《金床鋳込みの猛禽》(かなとこいこみのもうきん)</h4>
+<div class="mana">{4}</div>
+<div class="type">アーティファクト・クリーチャー ― 鳥</div>
+<div class="poto">2/1</div>
+<div class="text">飛行、先制攻撃</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="青銅の黒貂"><a name="Bronze+Sable"></a>
+<img src="/cardlist/thumbs/THS_t/Bronze+Sable.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《青銅の黒貂》(せいどうのくろてん)</h4>
+<div class="mana">{2}</div>
+<div class="type">アーティファクト・クリーチャー ― 黒貂</div>
+<div class="poto">2/1</div>
+<div class="text"></div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="つややかな雄鹿"><a name="Burnished+Hart"></a>
+<img src="/cardlist/thumbs/THS_t/Burnished+Hart.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《つややかな雄鹿》(つややかなおじか)</h4>
+<div class="mana">{3}</div>
+<div class="type">アーティファクト・クリーチャー ― 大鹿</div>
+<div class="poto">2/2</div>
+<div class="text">{3},つややかな雄鹿を生け贄に捧げる：あなたのライブラリーから基本土地カードを最大2枚まで探し、それらをタップ状態で戦場に出し、その後あなたのライブラリーを切り直す。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="アクロスの巨像"><a name="Colossus+of+Akros"></a>
+<img src="/cardlist/thumbs/THS_t/Colossus+of+Akros.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《アクロスの巨像》(アクロスのきょぞう)</h4>
+<div class="mana">{8}</div>
+<div class="type">アーティファクト・クリーチャー ― ゴーレム</div>
+<div class="poto">10/10</div>
+<div class="text"><small>防衛、破壊不能<br>{10}：怪物化10を行う。（このクリーチャーが怪物的でない場合、これの上に＋1/＋1カウンターを10個置く。これは怪物的になる。）<br>アクロスの巨像が怪物的であるかぎり、これはトランプルを持つとともに、防衛を持たないかのように攻撃できる。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="炎放ちの車輪"><a name="Flamecast+Wheel"></a>
+<img src="/cardlist/thumbs/THS_t/Flamecast+Wheel.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《炎放ちの車輪》(ほのおはなちのしゃりん)</h4>
+<div class="mana">{1}</div>
+<div class="type">アーティファクト</div>
+<div class="poto"></div>
+<div class="text">{5},{Tap},炎放ちの車輪を生け贄に捧げる：クリーチャー1体を対象とする。炎放ちの車輪はそれに3点のダメージを与える。</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="速羽根のサンダル"><a name="Fleetfeather+Sandals"></a>
+<img src="/cardlist/thumbs/THS_t/Fleetfeather+Sandals.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《速羽根のサンダル》(はやばねのサンダル)</h4>
+<div class="mana">{2}</div>
+<div class="type">アーティファクト ― 装備品</div>
+<div class="poto"></div>
+<div class="text">装備しているクリーチャーは飛行と速攻を持つ。<br>装備{2}({2}：あなたがコントロールするクリーチャー1体を対象とし、これをつける。装備はソーサリーとしてのみ行う。）</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="メレティスの守護者"><a name="Guardians+of+Meletis"></a>
+<img src="/cardlist/thumbs/THS_t/Guardians+of+Meletis.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《メレティスの守護者》(メレティスのしゅごしゃ)</h4>
+<div class="mana">{3}</div>
+<div class="type">アーティファクト・クリーチャー ― ゴーレム</div>
+<div class="poto">0/6</div>
+<div class="text">防衛</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="乳白色の一角獣"><a name="Opaline+Unicorn"></a>
+<img src="/cardlist/thumbs/THS_t/Opaline+Unicorn.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《乳白色の一角獣》(にゅうはくしょくのいっかくじゅう)</h4>
+<div class="mana">{3}</div>
+<div class="type">アーティファクト・クリーチャー ― ユニコーン</div>
+<div class="poto">1/2</div>
+<div class="text">{Tap}：あなたのマナ・プールに、好きな色1色のマナ1点を加える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="こそ泥の兜"><a name="Prowler_s+Helm"></a>
+<img src="/cardlist/thumbs/THS_t/Prowler_s+Helm.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《こそ泥の兜》(こそどろのかぶと)</h4>
+<div class="mana">{2}</div>
+<div class="type">アーティファクト ― 装備品</div>
+<div class="poto"></div>
+<div class="text">装備しているクリーチャーは壁以外によってはブロックされない。<br>装備{2}</div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="伏魔殿のピュクシス"><a name="Pyxis+of+Pandemonium"></a>
+<img src="/cardlist/thumbs/THS_t/Pyxis+of+Pandemonium.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《伏魔殿のピュクシス》(ふくまでんのピュクシス)</h4>
+<div class="mana">{1}</div>
+<div class="type">アーティファクト</div>
+<div class="poto"></div>
+<div class="text"><small>{Tap}：各プレイヤーはそれぞれ自分のライブラリーの一番上のカードを裏向きで追放する。<br>{7},{Tap},伏魔殿のピュクシスを生け贄に捧げる：各プレイヤーはそれぞれ伏魔殿のピュクシスによって追放された自分がオーナーであるカードをすべて表向きにし、その後その中のすべてのパーマネント・カードを戦場に出す。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="旅行者の護符"><a name="Traveler_s+Amulet"></a>
+<img src="/cardlist/thumbs/THS_t/Traveler_s+Amulet.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《旅行者の護符》(りょこうしゃのごふ)</h4>
+<div class="mana">{1}</div>
+<div class="type">アーティファクト</div>
+<div class="poto"></div>
+<div class="text">{1},旅行者の護符を生け贄に捧げる：あなたのライブラリーから基本土地カードを1枚探し、それを公開してあなたの手札に加える。その後あなたのライブラリーを切り直す。</div>
+<div class="sets">[ISD]:C [THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="魔女の目"><a name="Witches_Eye"></a>
+<img src="/cardlist/thumbs/THS_t/Witches_Eye.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《魔女の目》(まじょのめ)</h4>
+<div class="mana">{1}</div>
+<div class="type">アーティファクト ― 装備品</div>
+<div class="poto"></div>
+<div class="text"><small>装備しているクリーチャーは「{1},{Tap}：占術1を行う。」を持つ。（占術1を行うには、あなたのライブラリーの一番上のカードを見る。その後そのカードをあなたのライブラリーの一番下に置いてもよい。）<br>装備{1}</small></div>
+<div class="sets">[THS]:U</div>
+</div>
+<br><hr style="clear: both">
+<div id="ニクスの祭殿、ニクソス"><a name="Nykthos_Shrine+to+Nyx"></a>
+<img src="/cardlist/thumbs/THS_t/Nykthos_Shrine+to+Nyx.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《ニクスの祭殿、ニクソス》(ニクスのさいでん、ニクソス)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">伝説の土地</div>
+<div class="poto"></div>
+<div class="text"><small>{Tap}：あなたのマナ・プールに{1}を加える。<br>{2},{Tap}：色を1つ選ぶ。あなたのマナ・プールに、あなたのその色への信心に等しい点数の、その色のマナを加える。（あなたの色への信心は、あなたがコントロールするパーマネントのマナ・コスト内に含まれるその色のマナ・シンボルの数である。）</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="奔放の神殿"><a name="Temple+of+Abandon"></a>
+<img src="/cardlist/thumbs/THS_t/Temple+of+Abandon.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《奔放の神殿》(ほんぽうのしんでん)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">土地</div>
+<div class="poto"></div>
+<div class="text"><small>奔放の神殿はタップ状態で戦場に出る。<br>奔放の神殿が戦場に出たとき、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）<br>{Tap}：あなたのマナ・プールに{R}か{G}を加える。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="欺瞞の神殿"><a name="Temple+of+Deceit"></a>
+<img src="/cardlist/thumbs/THS_t/Temple+of+Deceit.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《欺瞞の神殿》(ぎまんのしんでん)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">土地</div>
+<div class="poto"></div>
+<div class="text"><small>欺瞞の神殿はタップ状態で戦場に出る。<br>欺瞞の神殿が戦場に出たとき、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）<br>{Tap}：あなたのマナ・プールに{U}か{B}を加える。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="神秘の神殿"><a name="Temple+of+Mystery"></a>
+<img src="/cardlist/thumbs/THS_t/Temple+of+Mystery.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《神秘の神殿》(しんぴのしんでん)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">土地</div>
+<div class="poto"></div>
+<div class="text"><small>神秘の神殿はタップ状態で戦場に出る。<br>神秘の神殿が戦場に出たとき、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）<br>{Tap}：あなたのマナ・プールに{G}か{U}を加える。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="静寂の神殿"><a name="Temple+of+Silence"></a>
+<img src="/cardlist/thumbs/THS_t/Temple+of+Silence.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《静寂の神殿》(せいじゃくのしんでん)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">土地</div>
+<div class="poto"></div>
+<div class="text"><small>静寂の神殿はタップ状態で戦場に出る。<br>静寂の神殿が戦場に出たとき、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）<br>{Tap}：あなたのマナ・プールに{W}か{B}を加える。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="凱旋の神殿"><a name="Temple+of+Triumph"></a>
+<img src="/cardlist/thumbs/THS_t/Temple+of+Triumph.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《凱旋の神殿》(がいせんのしんでん)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">土地</div>
+<div class="poto"></div>
+<div class="text"><small>凱旋の神殿はタップ状態で戦場に出る。<br>凱旋の神殿が戦場に出たとき、占術1を行う。（あなたのライブラリーの一番上のカードを見る。あなたはそのカードをあなたのライブラリーの一番下に置いてもよい。）<br>{Tap}：あなたのマナ・プールに{R}か{W}を加える。</small></div>
+<div class="sets">[THS]:R</div>
+</div>
+<br><hr style="clear: both">
+<div id="未知の岸"><a name="Unknown+Shores"></a>
+<img src="/cardlist/thumbs/THS_t/Unknown+Shores.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《未知の岸》(みちのきし)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">土地</div>
+<div class="poto"></div>
+<div class="text">{Tap}：あなたのマナ・プールに{1}を加える。<br>{1},{Tap}：あなたのマナ・プールに、好きな色1色のマナ1点を加える。</div>
+<div class="sets">[THS]:C</div>
+</div>
+<br><hr style="clear: both">
+<div id="平地"><a name="Plains"></a>
+<img src="/cardlist/thumbs/THS_t/Plains.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《平地》(へいち)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">基本土地 ― 平地</div>
+<div class="poto"></div>
+<div class="text">(へいち)</div>
+<div class="sets">[POR]:L [P02]:L [S99]:L [S00]:L [PTK]:L [DDC]:L [DDE]:L [DDF]:L [DDG]:L [DDH]:L [DDI]:L [DDK]:L [ARC]:L [HOP]:L [PC2]:L [1ED]:L [2UN]:L [2ED]:L [3ED]:L [4ED]:L [ICE]:L [5ED]:L [MIR]:L [TMP]:L [6ED]:L [USG]:L [MMQ]:L [INV]:L [7ED]:L [ODY]:L [ONS]:L [8ED]:L [MRD]:L [CHK]:L [9ED]:L [RAV]:L [TSP]:L [10E]:L [LRW]:L [SHM]:L [ALA]:L [M10]:L [ZEN]:L [ROE]:L [M11]:L [SOM]:L [MBS]:L [NPH]:L [CMD]:L [M12]:L [ISD]:L [AVR]:L [M13]:L [RTR]:L [M14]:L [THS]:L</div>
+</div>
+<br><hr style="clear: both">
+<div id="島"><a name="Island"></a>
+<img src="/cardlist/thumbs/THS_t/Island.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《島》(しま)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">基本土地 ― 島</div>
+<div class="poto"></div>
+<div class="text">(しま)</div>
+<div class="sets">[POR]:L [P02]:L [S99]:L [S00]:L [PTK]:L [DDE]:L [DDF]:L [DDH]:L [DDI]:L [DDJ]:L [ARC]:L [HOP]:L [PC2]:L [1ED]:L [2UN]:L [2ED]:L [3ED]:L [4ED]:L [ICE]:L [5ED]:L [MIR]:L [TMP]:L [6ED]:L [USG]:L [MMQ]:L [INV]:L [7ED]:L [ODY]:L [ONS]:L [8ED]:L [MRD]:L [CHK]:L [9ED]:L [RAV]:L [TSP]:L [10E]:L [LRW]:L [SHM]:L [ALA]:L [M10]:L [ZEN]:L [ROE]:L [M11]:L [SOM]:L [MBS]:L [NPH]:L [CMD]:L [M12]:L [ISD]:L [AVR]:L [M13]:L [RTR]:L [M14]:L [THS]:L</div>
+</div>
+<br><hr style="clear: both">
+<div id="沼"><a name="Swamp"></a>
+<img src="/cardlist/thumbs/THS_t/Swamp.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《沼》(ぬま)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">基本土地 ― 沼</div>
+<div class="poto"></div>
+<div class="text">(ぬま)</div>
+<div class="sets">[POR]:L [P02]:L [S99]:L [S00]:L [PTK]:L [DDC]:L [DDD]:L [DDE]:L [DDH]:L [DDJ]:L [DDK]:L [ARC]:L [HOP]:L [PC2]:L [1ED]:L [2UN]:L [2ED]:L [3ED]:L [4ED]:L [ICE]:L [5ED]:L [MIR]:L [TMP]:L [6ED]:L [USG]:L [MMQ]:L [INV]:L [7ED]:L [ODY]:L [ONS]:L [8ED]:L [MRD]:L [CHK]:L [9ED]:L [RAV]:L [TSP]:L [10E]:L [LRW]:L [SHM]:L [ALA]:L [M10]:L [ZEN]:L [ROE]:L [M11]:L [SOM]:L [MBS]:L [NPH]:L [CMD]:L [M12]:L [ISD]:L [AVR]:L [M13]:L [RTR]:L [M14]:L [THS]:L</div>
+</div>
+<br><hr style="clear: both">
+<div id="山"><a name="Mountain"></a>
+<img src="/cardlist/thumbs/THS_t/Mountain.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《山》(やま)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">基本土地 ― 山</div>
+<div class="poto"></div>
+<div class="text">(やま)</div>
+<div class="sets">[POR]:L [P02]:L [S99]:L [S00]:L [PTK]:L [DDE]:L [DDG]:L [DDH]:L [DDI]:L [DDJ]:L [DDK]:L [ARC]:L [HOP]:L [PC2]:L [1ED]:L [2UN]:L [2ED]:L [ARN]:C [3ED]:L [4ED]:L [ICE]:L [5ED]:L [MIR]:L [TMP]:L [6ED]:L [USG]:L [MMQ]:L [INV]:L [7ED]:L [ODY]:L [ONS]:L [8ED]:L [MRD]:L [CHK]:L [9ED]:L [RAV]:L [TSP]:L [10E]:L [LRW]:L [SHM]:L [ALA]:L [M10]:L [ZEN]:L [ROE]:L [M11]:L [SOM]:L [MBS]:L [NPH]:L [CMD]:L [M12]:L [ISD]:L [AVR]:L [M13]:L [RTR]:L [M14]:L [THS]:L</div>
+</div>
+<br><hr style="clear: both">
+<div id="森"><a name="Forest"></a>
+<img src="/cardlist/thumbs/THS_t/Forest.jpg" class="listimg" style="float: right;">
+<h4 class="cardname">《森》(もり)</h4>
+<div class="mana"><span style="color:#888">（マナ・コストは存在しません）</span></div>
+<div class="type">基本土地 ― 森</div>
+<div class="poto"></div>
+<div class="text">(もり)</div>
+<div class="sets">[POR]:L [P02]:L [S99]:L [S00]:L [PTK]:L [DDD]:L [DDE]:L [DDG]:L [DDH]:L [DDJ]:L [ARC]:L [HOP]:L [PC2]:L [1ED]:L [2UN]:L [2ED]:L [3ED]:L [4ED]:L [ICE]:L [5ED]:L [MIR]:L [TMP]:L [6ED]:L [USG]:L [MMQ]:L [INV]:L [7ED]:L [ODY]:L [ONS]:L [8ED]:L [MRD]:L [CHK]:L [9ED]:L [RAV]:L [TSP]:L [10E]:L [LRW]:L [SHM]:L [ALA]:L [M10]:L [ZEN]:L [ROE]:L [M11]:L [SOM]:L [MBS]:L [NPH]:L [CMD]:L [M12]:L [ISD]:L [AVR]:L [M13]:L [RTR]:L [M14]:L [THS]:L</div>
+</div>
+
+</div>

@@ -1,0 +1,7 @@
+<% if @view_models.empty? %>
+    <%= link_to "デッキを構築する", search_mst_cards_path %>
+<% else %>
+    <% @view_models.each do |card| %>
+        <%= card.card_name %>
+    <% end %>
+<% end %>
