@@ -1,0 +1,6 @@
+
+var dom = $(".card_count", "#card_<%= @user_card.card_id %>")
+var val = dom.text()
+val = Number(val) || 0
+val = val+1
+dom.text(val)

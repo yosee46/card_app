@@ -1,7 +1,28 @@
 <% if @view_models.empty? %>
     <%= link_to "デッキを構築する", search_mst_cards_path %>
 <% else %>
-    <% @view_models.each do |card| %>
-        <%= card.card_name %>
-    <% end %>
+    <%= link_to "カードを追加する", search_mst_cards_path %>
+    <table>
+        <thead>
+        <tr>
+            <th>カード名</th>
+            <th>説明</th>
+            <th>所持数</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <% @view_models.each do |card| %>
+            <tr id="card_<%= card.card_id %>">
+                <td><%= card.card_name %></td>
+                <td><%= hbr card.text %></td>
+                <td class="card_count"><%= card.count %></td>
+                <td>
+                    <%= button_to "デッキに追加",  {:controller => "user", :action => "add_card", :id => card.card_id}, {:method => "POST", :remote => true} %>
+                    <%= button_to "デッキから削除",  {:controller => "user", :action => "add_card", :id => card.card_id}, {:method => "POST", :remote => true} %>
+                </td>
+            </tr>
+        <% end %>
+        </tbody>
+    </table>
 <% end %>

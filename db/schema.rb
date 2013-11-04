@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131104043451) do
+ActiveRecord::Schema.define(version: 20131104190459) do
 
   create_table "mst_cards", force: true do |t|
     t.string   "card_name"
@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 20131104043451) do
     t.string   "text"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "card_img_path"
   end
 
   create_table "user_cards", force: true do |t|

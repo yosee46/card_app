@@ -1,14 +1,40 @@
 <h1>New mst_card</h1>
 
 
-<%= form_tag({:controller => 'mst_cards', :action => 'search_do'}, {:method => "GET"}) do %>
+<%= form_tag({:controller => 'mst_cards', :action => 'search'}, {:method => "GET"}) do %>
     <%= text_field_tag('card_name', '', {:size => 30}) %>
     <%= submit_tag('カード名で検索') %>
 <% end %>
 
-<%= form_tag({:controller => 'mst_cards', :action => 'search_do'}) do %>
+<%= form_tag({:controller => 'mst_cards', :action => 'search'}, {:method => "GET"}) do %>
     <%= text_field_tag('text', '', {:size => 30}) %>
     <%= submit_tag('カードの効果で検索') %>
 <% end %>
 
-<%= link_to 'Back', mst_cards_path %>
+<% unless @mst_cards.empty? %>
+
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th>コスト</th>
+        <th>カード名</th>
+        <th>説明</th>
+        <th></th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <% @mst_cards.each do |mst_card| %>
+        <tr>
+            <td><%= image_tag('items' + mst_card.card_img_path) %></td>
+            <td><%= apply_img_and_hbr(mst_card.mana) %></td>
+            <td><%= mst_card.card_name %></td>
+            <td><%= apply_img_and_hbr(mst_card.text) %></td>
+            <td> <%= button_to "デッキに追加",  {:controller => "user", :action => "add_card", :id => mst_card.id}, {:method => "POST", :remote => true} %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+<% end %>
+

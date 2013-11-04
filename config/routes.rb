@@ -21,7 +21,6 @@ CardApp::Application.routes.draw do
   resources :mst_cards do
     collection do
       get 'search'
-      get 'search_do'
     end
   end
 
