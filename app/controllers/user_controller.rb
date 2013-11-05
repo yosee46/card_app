@@ -28,7 +28,7 @@ class UserController < ApplicationController
     end
   end
 
-  #カードの所持数を追加して、jsonを返す
+  #カードの所持数を増やして、jsonを返す
   def add_card
     mst_card = MstCard.find(params[:id])
     card_add_count = 1
@@ -50,7 +50,7 @@ class UserController < ApplicationController
     end
   end
 
-  #カードの所持数を追加して、jsonを返す
+  #カードの所持数を減らして、jsonを返す
   def remove_card
     mst_card = MstCard.find(params[:id])
     card_add_count = -1
@@ -59,10 +59,16 @@ class UserController < ApplicationController
 
     #カードの所持数を更新
     @user_card = UserCard.find_by(:user_id => user_id, :card_id => mst_card.id, :card_group_no => card_group_no)
+
+
     unless (@user_card.nil?)
-      new_card_count = @user_card.count + card_add_count
-      @user_card.count = new_card_count
-      @user_card.save!
+      if (@user_card.count > 0)
+        new_card_count = @user_card.count + card_add_count
+        @user_card.count = new_card_count
+        @user_card.save!
+      else
+        @user_card.destroy
+      end
     end
 
     respond_to do |format|

@@ -1,0 +1,13 @@
+
+var dom = $(".card_count", "#card_<%= @user_card.card_id %>")
+var val = dom.text()
+val = Number(val) || 0
+if (val > 0) {
+    val = val-1
+    dom.text(val)
+    if (val === 0) {
+        $(".delete_btn", "#card_<%= @user_card.card_id %>").val("削除する")
+    }
+} else {
+    $("#card_<%= @user_card.card_id %>").css("display", "none")
+}

@@ -11,6 +11,7 @@ CardApp::Application.routes.draw do
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
   post 'user/add_card/:id' => 'user#add_card'
+  post 'user/remove_card/:id' => 'user#remove_card'
 
   # Example of named route that can be invoked with purchase_url(id: product.id)
   #   get 'products/:id/purchase' => 'catalog#purchase', as: :purchase

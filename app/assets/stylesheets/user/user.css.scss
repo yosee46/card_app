@@ -1,3 +1,58 @@
 // Place all the styles related to the user/user controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+@mixin radius {
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card_line {
+  list-style: none;
+  line-height: 1.5;
+  li.card {
+    @include radius;
+    border: inset 3px #000000;
+    float: left;
+    width: 250px;
+    height: 500px;
+    margin: 5px;
+    .card_name {
+      @include radius;
+      background-color: #eee8aa;
+      text-align: center;
+      margin: 10px 10px 1px 10px;
+      padding: 10px 10px;
+    }
+    .card_text {
+      @include radius;
+      background-color: #eee8aa;
+      padding: 5px 30px;
+      margin: 4px 20px;
+    }
+    .card_img {
+      text-align: center;
+    }
+    .card_count {
+      text-align: center;
+    }
+    .mana {
+      text-align: center;
+      margin: 0px 20px 0px 90px;
+    }
+    .card_poto {
+    }
+  }
+
+
+}

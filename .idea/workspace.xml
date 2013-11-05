@@ -16,20 +16,22 @@
     <file path="/show.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383477147036" ignored="false" />
     <file path="/show.json.jbuilder" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383477156962" ignored="false" />
     <file path="/application_helper.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383598933626" ignored="false" />
-    <file path="/index.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383594098275" ignored="false" />
-    <file path="/routes.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383576928664" ignored="false" />
-    <file path="/search.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383599037093" ignored="false" />
+    <file path="/index.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383660810376" ignored="false" />
+    <file path="/routes.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383599463570" ignored="false" />
+    <file path="/search.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383600095408" ignored="false" />
     <file path="/search_do.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383576585046" ignored="false" />
     <file path="/Gemfile" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383510975090" ignored="false" />
     <file path="/Dummy.txt" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383591886607" ignored="false" />
     <file path="/development.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383511894402" ignored="false" />
-    <file path="/user_controller.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383594038524" ignored="false" />
+    <file path="/user_controller.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383600835001" ignored="false" />
     <file path="/application.html.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383582699358" ignored="false" />
     <file path="/20131104035717_create_user_cards.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383539176635" ignored="false" />
     <file path="/20131104043451_add_index_to_user_cards.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383539861018" ignored="false" />
     <file path="/custom_user_card.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383593624301" ignored="false" />
     <file path="/add_card.js.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383585436496" ignored="false" />
     <file path="/20131104190459_add_card_img_to_mst_cards.rb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383592172652" ignored="false" />
+    <file path="/remove_card.js.erb" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383601975601" ignored="false" />
+    <file path="/user.css.scss" changelist="9b3bd149-6a79-4e9f-b144-b384c37d691c" time="1383662307341" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,37 +102,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mst_cards_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/mst_cards_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="14" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="search.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/mst_cards/search.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="50" selection-start="776" selection-end="776" vertical-scroll-proportion="0.65217394">
+            <state line="32" column="59" selection-start="893" selection-end="893" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="259" selection-end="259" vertical-scroll-proportion="-5.0">
+            <state line="10" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_user_card.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/custom_user_card.rb">
+      <file leaf-file-name="remove_card.js.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/user/remove_card.js.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="2" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+            <state line="8" column="68" selection-start="245" selection-end="245" vertical-scroll-proportion="-5.0">
+              <folding>
+                <marker date="1383602576000" expanded="true" signature="120:256" placeholder="{...}" />
+                <marker date="1383602576000" expanded="true" signature="175:254" placeholder="{...}" />
+                <marker date="1383602576000" expanded="true" signature="262:329" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mst_cards.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/mst_cards.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="54" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.css.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/user/user.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="0" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.4568245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_card.js.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/user/add_card.js.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="35" selection-start="171" selection-end="171" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -139,7 +163,7 @@
       <file leaf-file-name="user_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.0">
+            <state line="48" column="14" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,7 +172,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/user/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="48" selection-start="777" selection-end="777" vertical-scroll-proportion="-10.625">
+            <state line="9" column="24" selection-start="521" selection-end="521" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
@@ -175,30 +199,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mtg_app.user_cards" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/39ecf5b4/3d70cc82-d129-45c5-8675-d236d9237bde/mtg_app..user_cards">
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mtg_app.users" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/39ecf5b4/3d70cc82-d129-45c5-8675-d236d9237bde/mtg_app..users">
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -213,22 +213,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="dbtable:/39ecf5b4/3d70cc82-d129-45c5-8675-d236d9237bde/mtg_app..user_cards" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/user/add_card.js.erb" />
         <option value="$PROJECT_DIR$/app/views/mst_cards/search_do.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/mst_cards_controller.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20131104190459_add_card_img_to_mst_cards.rb" />
         <option value="$PROJECT_DIR$/test/data/extract_card_data.rb" />
         <option value="$PROJECT_DIR$/test/fixtures/mst_cards.yml" />
         <option value="$PROJECT_DIR$/test/fixtures/user_cards.yml" />
         <option value="dbtable:/39ecf5b4/3d70cc82-d129-45c5-8675-d236d9237bde/mtg_app..users" />
         <option value="$PROJECT_DIR$/app/models/custom_user_card.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/user_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/user/index.html.erb" />
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/mst_cards/search.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/user_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/user/add_card.js.erb" />
+        <option value="$PROJECT_DIR$/app/views/user/remove_card.js.erb" />
+        <option value="$PROJECT_DIR$/app/views/user/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/user/user.css.scss" />
       </list>
     </option>
   </component>
@@ -392,6 +392,126 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -762,7 +882,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.6743421" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.6743421" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -850,41 +970,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131103204955_create_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131104035717_create_user_cards.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131104190459_add_card_img_to_mst_cards.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/data/extract_card_data.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/fixtures/mst_cards.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/fixtures/user_cards.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="86" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
@@ -919,23 +1004,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/user/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="48" selection-start="777" selection-end="777" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="259" selection-end="259" vertical-scroll-proportion="-5.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -954,6 +1025,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/mst_cards/search.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="59" selection-start="893" selection-end="893" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/remove_card.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="68" selection-start="245" selection-end="245" vertical-scroll-proportion="-5.0">
+          <folding>
+            <marker date="1383602576000" expanded="true" signature="120:256" placeholder="{...}" />
+            <marker date="1383602576000" expanded="true" signature="175:254" placeholder="{...}" />
+            <marker date="1383602576000" expanded="true" signature="262:329" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="dbDummy://dbtable:/39ecf5b4/3d70cc82-d129-45c5-8675-d236d9237bde/mtg_app..mst_cards">
       <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -964,9 +1060,37 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/mst_cards/search.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/mst_cards.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="50" selection-start="776" selection-end="776" vertical-scroll-proportion="0.65217394">
+        <state line="2" column="54" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/user_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="14" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/add_card.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="35" selection-start="171" selection-end="171" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="521" selection-end="521" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/user/user.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.4568245">
           <folding />
         </state>
       </provider>
