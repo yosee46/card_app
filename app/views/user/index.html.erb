@@ -1,7 +1,14 @@
 <% if @view_models.empty? %>
-    <%= link_to "デッキを構築する", search_mst_cards_path %>
+    <% if user_signed_in? %>
+        <p>デッキを構築する</p>
+        <%= render 'share/search_card' %>
+    <% else %>
+        <p>カードを検索する</p>
+        <%= render 'share/search_card' %>
+    <% end %>
+
 <% else %>
-    <%= link_to "カードを検索する", search_mst_cards_path %>
+    <%= render 'share/search_card' %>
     <% @view_models.each_with_index do |card, index| %>
             <% if index % 4 == 0 %><ul class="card_line"><% end %>
                 <li id="card_<%= card.card_id %>" class="card">
