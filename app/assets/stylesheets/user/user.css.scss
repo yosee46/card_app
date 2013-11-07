@@ -13,19 +13,22 @@
   -moz-border-radius-bottomleft: 10px;
 }
 
+
 a {
   text-decoration: none;
 }
 
-.card_line {
+ul.card_line {
   list-style: none;
   line-height: 1.5;
+  max-height: 1000px;
+  display: table;
   li.card {
+    display: table-cell;
     @include radius;
     border: inset 3px #000000;
     float: left;
     width: 250px;
-    height: 500px;
     margin: 5px;
     .card_name {
       @include radius;
@@ -43,7 +46,7 @@ a {
     .card_img {
       text-align: center;
     }
-    .card_count {
+    .card_count_with_mai {
       text-align: center;
     }
     .mana {
@@ -51,6 +54,15 @@ a {
       margin: 0px 20px 0px 90px;
     }
     .card_poto {
+    }
+    ul {
+      padding-left: 50px;
+      list-style: none;
+      li {
+        &.count_up_btn {
+          float: left;
+        }
+      }
     }
   }
 

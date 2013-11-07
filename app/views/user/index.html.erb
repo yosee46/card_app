@@ -1,28 +1,12 @@
 <% if @view_models.empty? %>
     <% if user_signed_in? %>
-        <p>デッキを構築する</p>
         <%= render 'share/search_card' %>
     <% else %>
-        <p>カードを検索する</p>
         <%= render 'share/search_card' %>
     <% end %>
 
 <% else %>
     <%= render 'share/search_card' %>
-    <% @view_models.each_with_index do |card, index| %>
-            <% if index % 4 == 0 %><ul class="card_line"><% end %>
-                <li id="card_<%= card.card_id %>" class="card">
-                    <p class="card_name"><small><%= card.card_name %></small></p>
-                    <span class="mana"><%= apply_img_and_hbr(card.mana) %></span>
-                    <span class="card_poto"><%= card.poto %></span>
-                    <div class="card_img"><%= image_tag('items' + card.card_img_path) %></div>
-                    <p class="card_text"><small><%= apply_img_and_hbr(card.text) %></small></p>
-                    <span class="card_count"><%= card.count %></span><span>枚</span>
-                    <ul>
-                       <li><%= button_to "増やす",  {:controller => "user", :action => "add_card", :id => card.card_id}, {:method => "POST", :remote => true} %></li>
-                       <li><%= button_to "減らす",  {:controller => "user", :action => "remove_card", :id => card.card_id}, {:method => "POST", :remote => true, :class => "delete_btn"} %></li>
-                    </ul>
-                </li>
-            <% if index % 4 == 3 %></ul><% end %>
-    <% end %>
+    <%= render partial: 'share/card_list', locals: {view_models: @view_models} %>
+
 <% end %>

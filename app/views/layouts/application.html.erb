@@ -10,7 +10,8 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
-            <%= link_to "Mtg Search", root_path, :class => 'navbar-link'  %>
+
+            <p id='navbar-main'><%= link_to "Mtg Search", root_path, :class => 'navbar-link'  %></p>
             <p class="navbar-text pull-right">
                 <% if user_signed_in? %>
                     Logged in as <strong><%= current_user.email %></strong>.

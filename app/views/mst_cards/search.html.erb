@@ -1,33 +1,6 @@
-<h1>New mst_card</h1>
-
 <%= render 'share/search_card' %>
 
 <% unless @mst_cards.empty? %>
-
-<table>
-    <thead>
-    <tr>
-        <th></th>
-        <th>コスト</th>
-        <th>カード名</th>
-        <th>説明</th>
-        <th></th>
-    </tr>
-    </thead>
-
-    <tbody>
-    <% @mst_cards.each do |mst_card| %>
-        <tr>
-            <td><%= image_tag('items' + mst_card.card_img_path) %></td>
-            <td><%= apply_img_and_hbr(mst_card.mana) %></td>
-            <td><%= mst_card.card_name %></td>
-            <td><%= apply_img_and_hbr(mst_card.text) %></td>
-            <% if user_signed_in? %>
-                <td> <%= button_to "デッキに追加",  {:controller => "user", :action => "add_card", :id => mst_card.id}, {:method => "POST", :remote => true} %></td>
-            <% end %>
-        </tr>
-    <% end %>
-    </tbody>
-</table>
+    <%= render partial: 'share/card_list', locals: {view_models: @mst_cards} %>
 <% end %>
 

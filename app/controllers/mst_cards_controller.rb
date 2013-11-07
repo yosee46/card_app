@@ -7,10 +7,11 @@ class MstCardsController < ApplicationController
   end
 
   def search
-    if (params[:card_name])
-      @mst_cards = MstCard.where('card_name like ?', "%" + params[:card_name] + "%")
-    elsif (params[:text])
-      @mst_cards = MstCard.where('text like ?', "%" + params[:text] + "%")
+    search_name = params[:search]
+    if (search_name[:search] === "search_by_name")
+      @mst_cards = MstCard.where('card_name like ?', "%" + params[:card] + "%")
+    elsif (search_name[:search] === "search_by_text")
+      @mst_cards = MstCard.where('text like ?', "%" + params[:card] + "%")
     else
       @mst_cards = Array.new
     end

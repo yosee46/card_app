@@ -1,9 +1,8 @@
-<%= form_tag({:controller => 'mst_cards', :action => 'search'}, {:method => "GET"}) do %>
-    <%= text_field_tag('card_name', '', {:size => 30}) %>
-    <%= submit_tag('カード名で検索') %>
-<% end %>
+<div class="search_form">
+    <%= form_tag({:controller => 'mst_cards', :action => 'search'}, {:method => "GET" }) do %>
+        <%= select(:search, :search, [["カード名で検索", "search_by_name"], ["カードの説明から検索", "search_by_text"]])%>
+        <%= text_field_tag('card', '', {:size => 30}) %>
+        <%= submit_tag('検索') %>
+    <% end %>
+</div>
 
-<%= form_tag({:controller => 'mst_cards', :action => 'search'}, {:method => "GET"}) do %>
-    <%= text_field_tag('text', '', {:size => 30}) %>
-    <%= submit_tag('カードの効果で検索') %>
-<% end %>
